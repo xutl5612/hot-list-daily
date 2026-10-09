@@ -1,0 +1,46 @@
+name: 更新今日热榜
+
+# 定时抓取热榜数据并提交；配合 GitHub Pages 即可实现「打开网址就是最新」
+on:
+  schedule:
+    # 注意：GitHub 的 cron 使用 UTC 时间。
+    # '0 * * * *' = 每小时整点；想改成北京时间每天 8~23 点每小时，用 '0 0-15 * * *'
+    - cron: '0 * * * *'
+  # 允许在 Actions 页面手动点「Run workflow」立即跑一次
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# 避免多个任务并发导致 git push 冲突
+concurrency:
+  group: update-hotlist
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 准备 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 抓取热榜数据（无需安装依赖，脚本只用标准库）
+        run: python3 tools/fetch_hotlist.py
+
+      - name: 提交并推送更新
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/hotlist.json data/hottrack.json
+          # 无变化时不产生空提交
+          if git diff --quiet --cached; then
+            echo "数据无变化，跳过提交"
+          else
+            git commit -m "chore(hotlist): $(date -u '+%Y-%m-%d %H:%M UTC') 更新热榜数据"
+            git push
+          fi
