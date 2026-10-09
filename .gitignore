@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 热榜快照归档：体量大且高频变动，不入库（风向页依赖 hottrack.json，不受影响）
+data/snapshots/
+
+# 编辑器与系统文件
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
