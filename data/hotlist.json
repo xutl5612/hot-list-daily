@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21 13:33",
+  "updatedAt": "2026-10-21 14:25",
   "snapshotDate": "2026-10-21",
   "sources": [
     "微博",
@@ -10,30 +10,30 @@
   "items": [
     {
       "rank": 1,
-      "title": "小城良方收视冲顶",
+      "title": "一诺状态",
       "source": "微博",
-      "heat": "1264671",
-      "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E6%94%B6%E8%A7%86%E5%86%B2%E9%A1%B6",
+      "heat": "1573079",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E8%AF%BA%E7%8A%B6%E6%80%81",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-10-21 13:33",
+        "first": "2026-10-21 14:25",
         "hits": 1,
         "best": 1
       }
     },
     {
       "rank": 2,
-      "title": "红果短剧自砍摇钱树",
+      "title": "AG年总止步突围赛",
       "source": "微博",
-      "heat": "1178751",
-      "url": "https://s.weibo.com/weibo?q=%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E8%87%AA%E7%A0%8D%E6%91%87%E9%92%B1%E6%A0%91",
-      "prev": 2,
-      "delta": 0,
+      "heat": "1136573",
+      "url": "https://s.weibo.com/weibo?q=AG%E5%B9%B4%E6%80%BB%E6%AD%A2%E6%AD%A5%E7%AA%81%E5%9B%B4%E8%B5%9B",
+      "prev": 9,
+      "delta": 7,
       "isNew": false,
       "track": {
-        "first": "2026-10-21 12:25",
+        "first": "2026-10-21 13:33",
         "hits": 2,
         "best": 2
       }
@@ -42,149 +42,149 @@
       "rank": 3,
       "title": "他们走过二万五千里换来今天",
       "source": "微博",
-      "heat": "708723",
+      "heat": "1056052",
       "url": "https://s.weibo.com/weibo?q=%E4%BB%96%E4%BB%AC%E8%B5%B0%E8%BF%87%E4%BA%8C%E4%B8%87%E4%BA%94%E5%8D%83%E9%87%8C%E6%8D%A2%E6%9D%A5%E4%BB%8A%E5%A4%A9",
-      "prev": null,
+      "prev": 3,
       "delta": 0,
-      "isNew": true,
+      "isNew": false,
       "track": {
         "first": "2026-10-21 13:33",
-        "hits": 1,
+        "hits": 2,
         "best": 3
       }
     },
     {
       "rank": 4,
-      "title": "檀健次可心柔全球品牌代言人",
+      "title": "泽连斯基",
       "source": "微博",
-      "heat": "650580",
-      "url": "https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E5%8F%AF%E5%BF%83%E6%9F%94%E5%85%A8%E7%90%83%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA",
+      "heat": "1055241",
+      "url": "https://s.weibo.com/weibo?q=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-10-21 01:29",
-        "hits": 5,
+        "first": "2026-10-21 14:25",
+        "hits": 1,
         "best": 4
       }
     },
     {
       "rank": 5,
-      "title": "影视飓风上手iPhoneDuo",
+      "title": "钟意长生拥抱",
       "source": "微博",
-      "heat": "537712",
-      "url": "https://s.weibo.com/weibo?q=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E4%B8%8A%E6%89%8BiPhoneDuo",
+      "heat": "1041565",
+      "url": "https://s.weibo.com/weibo?q=%E9%92%9F%E6%84%8F%E9%95%BF%E7%94%9F%E6%8B%A5%E6%8A%B1",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-10-21 13:33",
+        "first": "2026-10-21 14:25",
         "hits": 1,
         "best": 5
       }
     },
     {
       "rank": 6,
-      "title": "乌克兰",
+      "title": "红果短剧自砍摇钱树",
       "source": "微博",
-      "heat": "537056",
-      "url": "https://s.weibo.com/weibo?q=%E4%B9%8C%E5%85%8B%E5%85%B0",
-      "prev": null,
-      "delta": 0,
-      "isNew": true,
+      "heat": "1012112",
+      "url": "https://s.weibo.com/weibo?q=%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E8%87%AA%E7%A0%8D%E6%91%87%E9%92%B1%E6%A0%91",
+      "prev": 2,
+      "delta": -4,
+      "isNew": false,
       "track": {
-        "first": "2026-10-21 13:33",
-        "hits": 1,
-        "best": 6
+        "first": "2026-10-21 12:25",
+        "hits": 3,
+        "best": 2
       }
     },
     {
       "rank": 7,
-      "title": "芭莎盛典红毯",
+      "title": "一朵棉花改变世界",
       "source": "微博",
-      "heat": "535884",
-      "url": "https://s.weibo.com/weibo?q=%E8%8A%AD%E8%8E%8E%E7%9B%9B%E5%85%B8%E7%BA%A2%E6%AF%AF",
-      "prev": 1,
-      "delta": -6,
-      "isNew": false,
-      "track": {
-        "first": "2026-10-21 07:35",
-        "hits": 7,
-        "best": 1
-      }
-    },
-    {
-      "rank": 8,
-      "title": "今日辟谣",
-      "source": "微博",
-      "heat": "515337",
-      "url": "https://s.weibo.com/weibo?q=%E4%BB%8A%E6%97%A5%E8%BE%9F%E8%B0%A3",
+      "heat": "954614",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E6%9C%B5%E6%A3%89%E8%8A%B1%E6%94%B9%E5%8F%98%E4%B8%96%E7%95%8C",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-10-21 13:33",
+        "first": "2026-10-21 10:24",
+        "hits": 3,
+        "best": 7
+      }
+    },
+    {
+      "rank": 8,
+      "title": "肖战刘铮亮当群演了",
+      "source": "微博",
+      "heat": "905634",
+      "url": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%88%98%E9%93%AE%E4%BA%AE%E5%BD%93%E7%BE%A4%E6%BC%94%E4%BA%86",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
+      "track": {
+        "first": "2026-10-21 14:25",
         "hits": 1,
         "best": 8
       }
     },
     {
       "rank": 9,
-      "title": "AG年总止步突围赛",
+      "title": "AG告别年总",
       "source": "微博",
-      "heat": "511992",
-      "url": "https://s.weibo.com/weibo?q=AG%E5%B9%B4%E6%80%BB%E6%AD%A2%E6%AD%A5%E7%AA%81%E5%9B%B4%E8%B5%9B",
+      "heat": "712352",
+      "url": "https://s.weibo.com/weibo?q=AG%E5%91%8A%E5%88%AB%E5%B9%B4%E6%80%BB",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-10-21 13:33",
+        "first": "2026-10-21 14:25",
         "hits": 1,
         "best": 9
       }
     },
     {
       "rank": 10,
-      "title": "小城良方收视率走势",
+      "title": "小城良方收视冲顶",
       "source": "微博",
-      "heat": "484213",
-      "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E6%94%B6%E8%A7%86%E7%8E%87%E8%B5%B0%E5%8A%BF",
-      "prev": null,
-      "delta": 0,
-      "isNew": true,
+      "heat": "709177",
+      "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E6%94%B6%E8%A7%86%E5%86%B2%E9%A1%B6",
+      "prev": 1,
+      "delta": -9,
+      "isNew": false,
       "track": {
         "first": "2026-10-21 13:33",
-        "hits": 1,
-        "best": 10
+        "hits": 2,
+        "best": 1
       }
     },
     {
       "rank": 11,
-      "title": "一生断句的中国人",
+      "title": "男子身中17刀身亡17岁少年被刑拘",
       "source": "微博",
-      "heat": "447826",
-      "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E7%94%9F%E6%96%AD%E5%8F%A5%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BA%BA",
-      "prev": 5,
-      "delta": -6,
-      "isNew": false,
-      "track": {
-        "first": "2026-10-21 10:24",
-        "hits": 4,
-        "best": 4
-      }
-    },
-    {
-      "rank": 12,
-      "title": "小城良方热度",
-      "source": "微博",
-      "heat": "401240",
-      "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E7%83%AD%E5%BA%A6",
+      "heat": "708862",
+      "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E8%BA%AB%E4%B8%AD17%E5%88%80%E8%BA%AB%E4%BA%A117%E5%B2%81%E5%B0%91%E5%B9%B4%E8%A2%AB%E5%88%91%E6%8B%98",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-10-21 13:33",
+        "first": "2026-10-21 14:25",
         "hits": 1,
+        "best": 11
+      }
+    },
+    {
+      "rank": 12,
+      "title": "曝自费高定艺人名字",
+      "source": "微博",
+      "heat": "699444",
+      "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E8%87%AA%E8%B4%B9%E9%AB%98%E5%AE%9A%E8%89%BA%E4%BA%BA%E5%90%8D%E5%AD%97",
+      "prev": 14,
+      "delta": 2,
+      "isNew": false,
+      "track": {
+        "first": "2026-10-21 13:33",
+        "hits": 2,
         "best": 12
       }
     },
@@ -192,29 +192,29 @@
       "rank": 13,
       "title": "张小斐 救场",
       "source": "微博",
-      "heat": "395235",
+      "heat": "692421",
       "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%B0%8F%E6%96%90%20%E6%95%91%E5%9C%BA",
-      "prev": null,
+      "prev": 13,
       "delta": 0,
-      "isNew": true,
+      "isNew": false,
       "track": {
         "first": "2026-10-21 13:33",
-        "hits": 1,
+        "hits": 2,
         "best": 13
       }
     },
     {
       "rank": 14,
-      "title": "曝自费高定艺人名字",
+      "title": "罗晋和唐嫣讨论女儿画的画",
       "source": "微博",
-      "heat": "388745",
-      "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E8%87%AA%E8%B4%B9%E9%AB%98%E5%AE%9A%E8%89%BA%E4%BA%BA%E5%90%8D%E5%AD%97",
+      "heat": "690312",
+      "url": "https://s.weibo.com/weibo?q=%E7%BD%97%E6%99%8B%E5%92%8C%E5%94%90%E5%AB%A3%E8%AE%A8%E8%AE%BA%E5%A5%B3%E5%84%BF%E7%94%BB%E7%9A%84%E7%94%BB",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-10-21 13:33",
-        "hits": 1,
+        "first": "2026-10-21 12:25",
+        "hits": 2,
         "best": 14
       }
     },
@@ -222,43 +222,43 @@
       "rank": 15,
       "title": "樊振东这次发文又引用了中庸和孟子",
       "source": "微博",
-      "heat": "379113",
+      "heat": "681610",
       "url": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%BF%99%E6%AC%A1%E5%8F%91%E6%96%87%E5%8F%88%E5%BC%95%E7%94%A8%E4%BA%86%E4%B8%AD%E5%BA%B8%E5%92%8C%E5%AD%9F%E5%AD%90",
-      "prev": null,
+      "prev": 15,
       "delta": 0,
-      "isNew": true,
+      "isNew": false,
       "track": {
         "first": "2026-10-21 13:33",
-        "hits": 1,
+        "hits": 2,
         "best": 15
       }
     },
     {
       "rank": 1,
-      "title": "解放军“围观”美日演习？学者解读",
+      "title": "警方回应“留学生在国外身披旭日旗”",
       "source": "头条",
-      "heat": "8881121",
-      "url": "https://www.toutiao.com/trending/7699022518941650482/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699022518941650482%22%2C%22hot_board_impr_id%22%3A%22202610212133290FAEA47C1B5B775742B2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%A7%A3%E6%94%BE%E5%86%9B%E2%80%9C%E5%9B%B4%E8%A7%82%E2%80%9D%E7%BE%8E%E6%97%A5%E6%BC%94%E4%B9%A0%EF%BC%9F%E5%AD%A6%E8%80%85%E8%A7%A3%E8%AF%BB%22%7D&rank=&style_id=40132&topic_id=7699022518941650482",
-      "prev": 1,
+      "heat": "6957141",
+      "url": "https://www.toutiao.com/trending/7699114472975109670/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699114472975109670%22%2C%22hot_board_impr_id%22%3A%222026102122255799126947EEDFACF81F79%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%95%99%E5%AD%A6%E7%94%9F%E5%9C%A8%E5%9B%BD%E5%A4%96%E8%BA%AB%E6%8A%AB%E6%97%AD%E6%97%A5%E6%97%97%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7699114472975109670",
+      "prev": null,
       "delta": 0,
-      "isNew": false,
+      "isNew": true,
       "track": {
-        "first": "2026-10-21 11:23",
-        "hits": 3,
+        "first": "2026-10-21 14:25",
+        "hits": 1,
         "best": 1
       }
     },
     {
       "rank": 2,
-      "title": "12306回应Z114次列车开售即售罄",
+      "title": "泽连斯基：愿保留75%领土以达和平",
       "source": "头条",
-      "heat": "8035970",
-      "url": "https://www.toutiao.com/trending/7698315451750891563/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698315451750891563%22%2C%22hot_board_impr_id%22%3A%22202610212133290FAEA47C1B5B775742B2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%2212306%E5%9B%9E%E5%BA%94Z114%E6%AC%A1%E5%88%97%E8%BD%A6%E5%BC%80%E5%94%AE%E5%8D%B3%E5%94%AE%E7%BD%84%22%7D&rank=&style_id=40132&topic_id=7698315451750891563",
-      "prev": null,
-      "delta": 0,
-      "isNew": true,
+      "heat": "6295081",
+      "url": "https://www.toutiao.com/trending/7699090821399711295/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699090821399711295%22%2C%22hot_board_impr_id%22%3A%222026102122255799126947EEDFACF81F79%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%84%BF%E4%BF%9D%E7%95%9975%25%E9%A2%86%E5%9C%9F%E4%BB%A5%E8%BE%BE%E5%92%8C%E5%B9%B3%22%7D&rank=&style_id=40132&topic_id=7699090821399711295",
+      "prev": 5,
+      "delta": 3,
+      "isNew": false,
       "track": {
-        "first": "2026-10-21 09:25",
+        "first": "2026-10-21 13:33",
         "hits": 2,
         "best": 2
       }
@@ -267,133 +267,133 @@
       "rank": 3,
       "title": "中国经济发展绿色化底色愈加鲜明",
       "source": "头条",
-      "heat": "7271246",
-      "url": "https://www.toutiao.com/trending/7699023554351988774/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699023554351988774%22%2C%22hot_board_impr_id%22%3A%22202610212133290FAEA47C1B5B775742B2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E7%BB%BF%E8%89%B2%E5%8C%96%E5%BA%95%E8%89%B2%E6%84%88%E5%8A%A0%E9%B2%9C%E6%98%8E%22%7D&rank=&style_id=40132&topic_id=7699023554351988774",
-      "prev": null,
+      "heat": "5696025",
+      "url": "https://www.toutiao.com/trending/7699023554351988774/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699023554351988774%22%2C%22hot_board_impr_id%22%3A%222026102122255799126947EEDFACF81F79%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E7%BB%BF%E8%89%B2%E5%8C%96%E5%BA%95%E8%89%B2%E6%84%88%E5%8A%A0%E9%B2%9C%E6%98%8E%22%7D&rank=&style_id=40132&topic_id=7699023554351988774",
+      "prev": 3,
       "delta": 0,
-      "isNew": true,
+      "isNew": false,
       "track": {
         "first": "2026-10-21 13:33",
-        "hits": 1,
+        "hits": 2,
         "best": 3
       }
     },
     {
       "rank": 4,
-      "title": "“神探”李昌钰将安葬于扬州",
+      "title": "唐驳虎：中国老板已准备放弃越南了",
       "source": "头条",
-      "heat": "6579296",
-      "url": "https://www.toutiao.com/trending/7698578787759374377/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698578787759374377%22%2C%22hot_board_impr_id%22%3A%22202610212133290FAEA47C1B5B775742B2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E2%80%9C%E7%A5%9E%E6%8E%A2%E2%80%9D%E6%9D%8E%E6%98%8C%E9%92%B0%E5%B0%86%E5%AE%89%E8%91%AC%E4%BA%8E%E6%89%AC%E5%B7%9E%22%7D&rank=&style_id=40132&topic_id=7698578787759374377",
-      "prev": 2,
-      "delta": -2,
+      "heat": "5153976",
+      "url": "https://www.toutiao.com/trending/7699071560463683126/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699071560463683126%22%2C%22hot_board_impr_id%22%3A%222026102122255799126947EEDFACF81F79%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%94%90%E9%A9%B3%E8%99%8E%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%80%81%E6%9D%BF%E5%B7%B2%E5%87%86%E5%A4%87%E6%94%BE%E5%BC%83%E8%B6%8A%E5%8D%97%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7699071560463683126",
+      "prev": 14,
+      "delta": 10,
       "isNew": false,
       "track": {
-        "first": "2026-10-21 08:26",
-        "hits": 6,
-        "best": 2
+        "first": "2026-10-21 13:33",
+        "hits": 2,
+        "best": 4
       }
     },
     {
       "rank": 5,
-      "title": "泽连斯基：愿保留75%领土以达和平",
+      "title": "传国玉玺究竟去哪了",
       "source": "头条",
-      "heat": "5953193",
-      "url": "https://www.toutiao.com/trending/7699090821399711295/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699090821399711295%22%2C%22hot_board_impr_id%22%3A%22202610212133290FAEA47C1B5B775742B2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%84%BF%E4%BF%9D%E7%95%9975%25%E9%A2%86%E5%9C%9F%E4%BB%A5%E8%BE%BE%E5%92%8C%E5%B9%B3%22%7D&rank=&style_id=40132&topic_id=7699090821399711295",
+      "heat": "4663511",
+      "url": "https://www.toutiao.com/trending/7699050649929777206/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699050649929777206%22%2C%22hot_board_impr_id%22%3A%222026102122255799126947EEDFACF81F79%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BC%A0%E5%9B%BD%E7%8E%89%E7%8E%BA%E7%A9%B6%E7%AB%9F%E5%8E%BB%E5%93%AA%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7699050649929777206",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-10-21 13:33",
+        "first": "2026-10-21 14:25",
         "hits": 1,
         "best": 5
       }
     },
     {
       "rank": 6,
-      "title": "官方通报女子错过检票哀求工作人员",
+      "title": "于东来：已拿出2000万投资爱情研究",
       "source": "头条",
-      "heat": "5386672",
-      "url": "https://www.toutiao.com/trending/7699068996930994203/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699068996930994203%22%2C%22hot_board_impr_id%22%3A%22202610212133290FAEA47C1B5B775742B2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E9%94%99%E8%BF%87%E6%A3%80%E7%A5%A8%E5%93%80%E6%B1%82%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%22%7D&rank=&style_id=40132&topic_id=7699068996930994203",
+      "heat": "4219719",
+      "url": "https://www.toutiao.com/trending/7699040297031991315/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699040297031991315%22%2C%22hot_board_impr_id%22%3A%222026102122255799126947EEDFACF81F79%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%8E%E4%B8%9C%E6%9D%A5%EF%BC%9A%E5%B7%B2%E6%8B%BF%E5%87%BA2000%E4%B8%87%E6%8A%95%E8%B5%84%E7%88%B1%E6%83%85%E7%A0%94%E7%A9%B6%22%7D&rank=&style_id=40132&topic_id=7699040297031991315",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-10-21 13:33",
+        "first": "2026-10-21 14:25",
         "hits": 1,
         "best": 6
       }
     },
     {
       "rank": 7,
-      "title": "金价跌了抢金的人却更多",
+      "title": "解放军“围观”美日演习？学者解读",
       "source": "头条",
-      "heat": "4874062",
-      "url": "https://www.toutiao.com/trending/7699059120464219690/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699059120464219690%22%2C%22hot_board_impr_id%22%3A%22202610212133290FAEA47C1B5B775742B2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%91%E4%BB%B7%E8%B7%8C%E4%BA%86%E6%8A%A2%E9%87%91%E7%9A%84%E4%BA%BA%E5%8D%B4%E6%9B%B4%E5%A4%9A%22%7D&rank=&style_id=40132&topic_id=7699059120464219690",
-      "prev": null,
-      "delta": 0,
-      "isNew": true,
+      "heat": "3818159",
+      "url": "https://www.toutiao.com/trending/7699022518941650482/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699022518941650482%22%2C%22hot_board_impr_id%22%3A%222026102122255799126947EEDFACF81F79%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%A7%A3%E6%94%BE%E5%86%9B%E2%80%9C%E5%9B%B4%E8%A7%82%E2%80%9D%E7%BE%8E%E6%97%A5%E6%BC%94%E4%B9%A0%EF%BC%9F%E5%AD%A6%E8%80%85%E8%A7%A3%E8%AF%BB%22%7D&rank=&style_id=40132&topic_id=7699022518941650482",
+      "prev": 1,
+      "delta": -6,
+      "isNew": false,
       "track": {
-        "first": "2026-10-21 13:33",
-        "hits": 1,
-        "best": 7
+        "first": "2026-10-21 11:23",
+        "hits": 4,
+        "best": 1
       }
     },
     {
       "rank": 8,
-      "title": "邵永灵：中美军机台海再交锋",
+      "title": "西安阿达西称现在没有利润还贴钱",
       "source": "头条",
-      "heat": "4410234",
-      "url": "https://www.toutiao.com/trending/7699061144337518106/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699061144337518106%22%2C%22hot_board_impr_id%22%3A%22202610212133290FAEA47C1B5B775742B2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%82%B5%E6%B0%B8%E7%81%B5%EF%BC%9A%E4%B8%AD%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%8F%B0%E6%B5%B7%E5%86%8D%E4%BA%A4%E9%94%8B%22%7D&rank=&style_id=40132&topic_id=7699061144337518106",
-      "prev": null,
-      "delta": 0,
-      "isNew": true,
+      "heat": "3454813",
+      "url": "https://www.toutiao.com/trending/7699007565690162729/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699007565690162729%22%2C%22hot_board_impr_id%22%3A%222026102122255799126947EEDFACF81F79%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%A5%BF%E5%AE%89%E9%98%BF%E8%BE%BE%E8%A5%BF%E7%A7%B0%E7%8E%B0%E5%9C%A8%E6%B2%A1%E6%9C%89%E5%88%A9%E6%B6%A6%E8%BF%98%E8%B4%B4%E9%92%B1%22%7D&rank=&style_id=40132&topic_id=7699007565690162729",
+      "prev": 9,
+      "delta": 1,
+      "isNew": false,
       "track": {
         "first": "2026-10-21 13:33",
-        "hits": 1,
+        "hits": 2,
         "best": 8
       }
     },
     {
       "rank": 9,
-      "title": "西安阿达西称现在没有利润还贴钱",
+      "title": "邵永灵：中美军机台海再交锋",
       "source": "头条",
-      "heat": "3990544",
-      "url": "https://www.toutiao.com/trending/7699007565690162729/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699007565690162729%22%2C%22hot_board_impr_id%22%3A%22202610212133290FAEA47C1B5B775742B2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%A5%BF%E5%AE%89%E9%98%BF%E8%BE%BE%E8%A5%BF%E7%A7%B0%E7%8E%B0%E5%9C%A8%E6%B2%A1%E6%9C%89%E5%88%A9%E6%B6%A6%E8%BF%98%E8%B4%B4%E9%92%B1%22%7D&rank=&style_id=40132&topic_id=7699007565690162729",
-      "prev": null,
-      "delta": 0,
-      "isNew": true,
+      "heat": "3126044",
+      "url": "https://www.toutiao.com/trending/7699061144337518106/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699061144337518106%22%2C%22hot_board_impr_id%22%3A%222026102122255799126947EEDFACF81F79%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%82%B5%E6%B0%B8%E7%81%B5%EF%BC%9A%E4%B8%AD%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%8F%B0%E6%B5%B7%E5%86%8D%E4%BA%A4%E9%94%8B%22%7D&rank=&style_id=40132&topic_id=7699061144337518106",
+      "prev": 8,
+      "delta": -1,
+      "isNew": false,
       "track": {
         "first": "2026-10-21 13:33",
-        "hits": 1,
-        "best": 9
+        "hits": 2,
+        "best": 8
       }
     },
     {
       "rank": 10,
-      "title": "保加利亚总理：不打算继续参与援乌",
+      "title": "美为何要求欧洲恢复购买俄石油天然气",
       "source": "头条",
-      "heat": "3610794",
-      "url": "https://www.toutiao.com/trending/7699008654552384038/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699008654552384038%22%2C%22hot_board_impr_id%22%3A%22202610212133290FAEA47C1B5B775742B2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%E6%80%BB%E7%90%86%EF%BC%9A%E4%B8%8D%E6%89%93%E7%AE%97%E7%BB%A7%E7%BB%AD%E5%8F%82%E4%B8%8E%E6%8F%B4%E4%B9%8C%22%7D&rank=&style_id=40132&topic_id=7699008654552384038",
+      "heat": "2828562",
+      "url": "https://www.toutiao.com/trending/7699047225652940338/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699047225652940338%22%2C%22hot_board_impr_id%22%3A%222026102122255799126947EEDFACF81F79%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E4%B8%BA%E4%BD%95%E8%A6%81%E6%B1%82%E6%AC%A7%E6%B4%B2%E6%81%A2%E5%A4%8D%E8%B4%AD%E4%B9%B0%E4%BF%84%E7%9F%B3%E6%B2%B9%E5%A4%A9%E7%84%B6%E6%B0%94%22%7D&rank=&style_id=40132&topic_id=7699047225652940338",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-10-21 13:33",
+        "first": "2026-10-21 14:25",
         "hits": 1,
         "best": 10
       }
     },
     {
       "rank": 11,
-      "title": "日本79岁女护理员上18小时夜班",
+      "title": "周涛称知止比知行更重要",
       "source": "头条",
-      "heat": "3267181",
-      "url": "https://www.toutiao.com/trending/7698280398018674742/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698280398018674742%22%2C%22hot_board_impr_id%22%3A%22202610212133290FAEA47C1B5B775742B2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%97%A5%E6%9C%AC79%E5%B2%81%E5%A5%B3%E6%8A%A4%E7%90%86%E5%91%98%E4%B8%8A18%E5%B0%8F%E6%97%B6%E5%A4%9C%E7%8F%AD%22%7D&rank=&style_id=40132&topic_id=7698280398018674742",
+      "heat": "2559389",
+      "url": "https://www.toutiao.com/trending/7698953985482489866/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698953985482489866%22%2C%22hot_board_impr_id%22%3A%222026102122255799126947EEDFACF81F79%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%91%A8%E6%B6%9B%E7%A7%B0%E7%9F%A5%E6%AD%A2%E6%AF%94%E7%9F%A5%E8%A1%8C%E6%9B%B4%E9%87%8D%E8%A6%81%22%7D&rank=&style_id=40132&topic_id=7698953985482489866",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-10-21 13:33",
+        "first": "2026-10-21 14:25",
         "hits": 1,
         "best": 11
       }
@@ -402,14 +402,14 @@
       "rank": 12,
       "title": "事关公积金贷款宁波辟谣",
       "source": "头条",
-      "heat": "2956268",
-      "url": "https://www.toutiao.com/trending/7699053662408425513/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699053662408425513%22%2C%22hot_board_impr_id%22%3A%22202610212133290FAEA47C1B5B775742B2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%8B%E5%85%B3%E5%85%AC%E7%A7%AF%E9%87%91%E8%B4%B7%E6%AC%BE%E5%AE%81%E6%B3%A2%E8%BE%9F%E8%B0%A3%22%7D&rank=&style_id=40132&topic_id=7699053662408425513",
+      "heat": "2315831",
+      "url": "https://www.toutiao.com/trending/7699053662408425513/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699053662408425513%22%2C%22hot_board_impr_id%22%3A%222026102122255799126947EEDFACF81F79%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%8B%E5%85%B3%E5%85%AC%E7%A7%AF%E9%87%91%E8%B4%B7%E6%AC%BE%E5%AE%81%E6%B3%A2%E8%BE%9F%E8%B0%A3%22%7D&rank=&style_id=40132&topic_id=7699053662408425513",
       "prev": 12,
       "delta": 0,
       "isNew": false,
       "track": {
         "first": "2026-10-21 11:23",
-        "hits": 3,
+        "hits": 4,
         "best": 12
       }
     },
@@ -417,43 +417,43 @@
       "rank": 13,
       "title": "人民日报评特斯拉能飞：不必妄自菲薄",
       "source": "头条",
-      "heat": "2674942",
-      "url": "https://www.toutiao.com/trending/7698981088210849318/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698981088210849318%22%2C%22hot_board_impr_id%22%3A%22202610212133290FAEA47C1B5B775742B2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%89%B9%E6%96%AF%E6%8B%89%E8%83%BD%E9%A3%9E%EF%BC%9A%E4%B8%8D%E5%BF%85%E5%A6%84%E8%87%AA%E8%8F%B2%E8%96%84%22%7D&rank=&style_id=40132&topic_id=7698981088210849318",
-      "prev": null,
+      "heat": "2095450",
+      "url": "https://www.toutiao.com/trending/7698981088210849318/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698981088210849318%22%2C%22hot_board_impr_id%22%3A%222026102122255799126947EEDFACF81F79%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%89%B9%E6%96%AF%E6%8B%89%E8%83%BD%E9%A3%9E%EF%BC%9A%E4%B8%8D%E5%BF%85%E5%A6%84%E8%87%AA%E8%8F%B2%E8%96%84%22%7D&rank=&style_id=40132&topic_id=7698981088210849318",
+      "prev": 13,
       "delta": 0,
-      "isNew": true,
+      "isNew": false,
       "track": {
         "first": "2026-10-21 07:35",
-        "hits": 5,
+        "hits": 6,
         "best": 5
       }
     },
     {
       "rank": 14,
-      "title": "唐驳虎：中国老板已准备放弃越南了",
+      "title": "12306回应Z114次列车开售即售罄",
       "source": "头条",
-      "heat": "2420387",
-      "url": "https://www.toutiao.com/trending/7699071560463683126/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699071560463683126%22%2C%22hot_board_impr_id%22%3A%22202610212133290FAEA47C1B5B775742B2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%94%90%E9%A9%B3%E8%99%8E%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%80%81%E6%9D%BF%E5%B7%B2%E5%87%86%E5%A4%87%E6%94%BE%E5%BC%83%E8%B6%8A%E5%8D%97%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7699071560463683126",
-      "prev": null,
-      "delta": 0,
-      "isNew": true,
+      "heat": "1896042",
+      "url": "https://www.toutiao.com/trending/7698315451750891563/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698315451750891563%22%2C%22hot_board_impr_id%22%3A%222026102122255799126947EEDFACF81F79%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%2212306%E5%9B%9E%E5%BA%94Z114%E6%AC%A1%E5%88%97%E8%BD%A6%E5%BC%80%E5%94%AE%E5%8D%B3%E5%94%AE%E7%BD%84%22%7D&rank=&style_id=40132&topic_id=7698315451750891563",
+      "prev": 2,
+      "delta": -12,
+      "isNew": false,
       "track": {
-        "first": "2026-10-21 13:33",
-        "hits": 1,
-        "best": 14
+        "first": "2026-10-21 09:25",
+        "hits": 3,
+        "best": 2
       }
     },
     {
       "rank": 15,
-      "title": "外交部：敦促美方立即停止对古巴封锁",
+      "title": "00后男生手搓“飞行滑板”爆火",
       "source": "头条",
-      "heat": "2190057",
-      "url": "https://www.toutiao.com/trending/7699016045734052361/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227699016045734052361%22%2C%22hot_board_impr_id%22%3A%22202610212133290FAEA47C1B5B775742B2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E6%95%A6%E4%BF%83%E7%BE%8E%E6%96%B9%E7%AB%8B%E5%8D%B3%E5%81%9C%E6%AD%A2%E5%AF%B9%E5%8F%A4%E5%B7%B4%E5%B0%81%E9%94%81%22%7D&rank=&style_id=40132&topic_id=7699016045734052361",
+      "heat": "1715609",
+      "url": "https://www.toutiao.com/trending/7698805370839531558/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227698805370839531558%22%2C%22hot_board_impr_id%22%3A%222026102122255799126947EEDFACF81F79%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%2200%E5%90%8E%E7%94%B7%E7%94%9F%E6%89%8B%E6%90%93%E2%80%9C%E9%A3%9E%E8%A1%8C%E6%BB%91%E6%9D%BF%E2%80%9D%E7%88%86%E7%81%AB%22%7D&rank=&style_id=40132&topic_id=7698805370839531558",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-10-21 13:33",
+        "first": "2026-10-21 14:25",
         "hits": 1,
         "best": 15
       }
@@ -462,29 +462,29 @@
       "rank": 1,
       "title": "折1万次，会坏吗？iPhone Duo深度评测",
       "source": "B站",
-      "heat": "309046",
+      "heat": "421878",
       "url": "https://www.bilibili.com/video/BV1xrnz6gEVD",
-      "prev": null,
+      "prev": 1,
       "delta": 0,
-      "isNew": true,
+      "isNew": false,
       "track": {
         "first": "2026-10-21 13:33",
-        "hits": 1,
+        "hits": 2,
         "best": 1
       }
     },
     {
       "rank": 2,
-      "title": "艺 术 求 生",
+      "title": "【NCT】听说NCT要开运动会了? “哪个NCT.” | 《 2026 NCT 田径锦标赛 》",
       "source": "B站",
-      "heat": "785955",
-      "url": "https://www.bilibili.com/video/BV1wHnP6TEi4",
-      "prev": 7,
-      "delta": 5,
-      "isNew": false,
+      "heat": "114169",
+      "url": "https://www.bilibili.com/video/BV1DUnB61ErU",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
       "track": {
-        "first": "2026-10-21 05:22",
-        "hits": 8,
+        "first": "2026-10-21 14:25",
+        "hits": 1,
         "best": 2
       }
     },
@@ -492,195 +492,195 @@
       "rank": 3,
       "title": "豆奶虫之殇【AI全民制作人】",
       "source": "B站",
-      "heat": "1174141",
+      "heat": "1283569",
       "url": "https://www.bilibili.com/video/BV1ponw6vEB9",
-      "prev": 2,
-      "delta": -1,
+      "prev": 3,
+      "delta": 0,
       "isNew": false,
       "track": {
         "first": "2026-10-21 09:25",
-        "hits": 5,
+        "hits": 6,
         "best": 2
       }
     },
     {
       "rank": 4,
-      "title": "【何同学】能折！但代价呢？iPhone Duo首发体验",
+      "title": "艺 术 求 生",
       "source": "B站",
-      "heat": "102750",
-      "url": "https://www.bilibili.com/video/BV1XynB6EEiM",
-      "prev": null,
-      "delta": 0,
-      "isNew": true,
+      "heat": "830760",
+      "url": "https://www.bilibili.com/video/BV1wHnP6TEi4",
+      "prev": 2,
+      "delta": -2,
+      "isNew": false,
       "track": {
-        "first": "2026-10-21 13:33",
-        "hits": 1,
-        "best": 4
+        "first": "2026-10-21 05:22",
+        "hits": 9,
+        "best": 2
       }
     },
     {
       "rank": 5,
-      "title": "iPhone Duo 首发评测：苹果的双屏奇谋",
+      "title": "【萌黄一槽】老紫[奇拉比落风传]全技能爆料！向你伸出温暖的灼炎“猿手”！",
       "source": "B站",
-      "heat": "105251",
-      "url": "https://www.bilibili.com/video/BV16Gnz6FENp",
+      "heat": "260469",
+      "url": "https://www.bilibili.com/video/BV12ZnB6zEjH",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-10-21 13:33",
+        "first": "2026-10-21 14:25",
         "hits": 1,
         "best": 5
       }
     },
     {
       "rank": 6,
-      "title": "《三过车门而不入》",
+      "title": "《南屏晚钟》来啦！",
       "source": "B站",
-      "heat": "1445321",
-      "url": "https://www.bilibili.com/video/BV1n7nF6WEco",
-      "prev": 12,
-      "delta": 6,
+      "heat": "1126480",
+      "url": "https://www.bilibili.com/video/BV1mgnP6yELh",
+      "prev": 8,
+      "delta": 2,
       "isNew": false,
       "track": {
-        "first": "2026-10-20 12:24",
-        "hits": 22,
-        "best": 6
+        "first": "2026-10-21 07:35",
+        "hits": 8,
+        "best": 3
       }
     },
     {
       "rank": 7,
       "title": "笑个der啊你，我对象吗你就笑",
       "source": "B站",
-      "heat": "830203",
+      "heat": "913518",
       "url": "https://www.bilibili.com/video/BV1Lxnn6BEZK",
-      "prev": 1,
-      "delta": -6,
+      "prev": 7,
+      "delta": 0,
       "isNew": false,
       "track": {
         "first": "2026-10-21 08:26",
-        "hits": 5,
+        "hits": 6,
         "best": 1
       }
     },
     {
       "rank": 8,
-      "title": "《南屏晚钟》来啦！",
-      "source": "B站",
-      "heat": "1024604",
-      "url": "https://www.bilibili.com/video/BV1mgnP6yELh",
-      "prev": 8,
-      "delta": 0,
-      "isNew": false,
-      "track": {
-        "first": "2026-10-21 07:35",
-        "hits": 7,
-        "best": 3
-      }
-    },
-    {
-      "rank": 9,
       "title": "《人间异想计划》22分钟实机首曝｜间章：如果之事与未践之约",
       "source": "B站",
-      "heat": "2460601",
+      "heat": "2538764",
       "url": "https://www.bilibili.com/video/BV1Ranw6DEYW",
-      "prev": 3,
-      "delta": -6,
+      "prev": 9,
+      "delta": 1,
       "isNew": false,
       "track": {
         "first": "2026-10-21 05:22",
-        "hits": 9,
+        "hits": 10,
         "best": 1
       }
     },
     {
-      "rank": 10,
-      "title": "⚡赵本山  《绅士Gentle Man》⚡",
+      "rank": 9,
+      "title": "iPhone Duo 首发评测：苹果的双屏奇谋",
       "source": "B站",
-      "heat": "963867",
-      "url": "https://www.bilibili.com/video/BV1NwJZ6dEiF",
-      "prev": 11,
-      "delta": 1,
+      "heat": "150748",
+      "url": "https://www.bilibili.com/video/BV16Gnz6FENp",
+      "prev": 5,
+      "delta": -4,
       "isNew": false,
       "track": {
-        "first": "2026-10-20 20:20",
-        "hits": 15,
+        "first": "2026-10-21 13:33",
+        "hits": 2,
+        "best": 5
+      }
+    },
+    {
+      "rank": 10,
+      "title": "【何同学】能折！但代价呢？iPhone Duo首发体验",
+      "source": "B站",
+      "heat": "141461",
+      "url": "https://www.bilibili.com/video/BV1XynB6EEiM",
+      "prev": 4,
+      "delta": -6,
+      "isNew": false,
+      "track": {
+        "first": "2026-10-21 13:33",
+        "hits": 2,
         "best": 4
       }
     },
     {
       "rank": 11,
-      "title": "我得到了，能看到表白率的超能力……",
+      "title": "荣耀WIN2上手体验：极客玩家狂喜的游戏手机？",
       "source": "B站",
-      "heat": "2232459",
-      "url": "https://www.bilibili.com/video/BV1ALnw6YE4S",
-      "prev": 9,
-      "delta": -2,
-      "isNew": false,
-      "track": {
-        "first": "2026-10-20 16:24",
-        "hits": 22,
-        "best": 1
-      }
-    },
-    {
-      "rank": 12,
-      "title": "绝对不能看的儿童节目！2026最新《逃出布迪秀》：坠入诡异老式儿童节目次元....",
-      "source": "B站",
-      "heat": "820948",
-      "url": "https://www.bilibili.com/video/BV1KgnP6yEoN",
-      "prev": 10,
-      "delta": -2,
-      "isNew": false,
-      "track": {
-        "first": "2026-10-21 00:21",
-        "hits": 13,
-        "best": 5
-      }
-    },
-    {
-      "rank": 13,
-      "title": "鼻塞疏通教程",
-      "source": "B站",
-      "heat": "953009",
-      "url": "https://www.bilibili.com/video/BV1rFnc69EFU",
-      "prev": 14,
-      "delta": 1,
-      "isNew": false,
-      "track": {
-        "first": "2026-10-21 07:35",
-        "hits": 7,
-        "best": 9
-      }
-    },
-    {
-      "rank": 14,
-      "title": "作死网红辱骂古兹曼老婆，挑衅古兹曼儿子，身中17枪打烂内脏",
-      "source": "B站",
-      "heat": "1395036",
-      "url": "https://www.bilibili.com/video/BV1FGJd63Exr",
-      "prev": 6,
-      "delta": -8,
-      "isNew": false,
-      "track": {
-        "first": "2026-10-21 09:25",
-        "hits": 5,
-        "best": 4
-      }
-    },
-    {
-      "rank": 15,
-      "title": "这是“巫毒”陷阱！",
-      "source": "B站",
-      "heat": "510038",
-      "url": "https://www.bilibili.com/video/BV1FanJ61ErB",
+      "heat": "100432",
+      "url": "https://www.bilibili.com/video/BV1RBnB6pEGr",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-10-21 13:33",
+        "first": "2026-10-21 14:25",
         "hits": 1,
-        "best": 15
+        "best": 11
+      }
+    },
+    {
+      "rank": 12,
+      "title": "我得到了，能看到表白率的超能力……",
+      "source": "B站",
+      "heat": "2305893",
+      "url": "https://www.bilibili.com/video/BV1ALnw6YE4S",
+      "prev": 11,
+      "delta": -1,
+      "isNew": false,
+      "track": {
+        "first": "2026-10-20 16:24",
+        "hits": 23,
+        "best": 1
+      }
+    },
+    {
+      "rank": 13,
+      "title": "⚡赵本山  《绅士Gentle Man》⚡",
+      "source": "B站",
+      "heat": "1018044",
+      "url": "https://www.bilibili.com/video/BV1NwJZ6dEiF",
+      "prev": 10,
+      "delta": -3,
+      "isNew": false,
+      "track": {
+        "first": "2026-10-20 20:20",
+        "hits": 16,
+        "best": 4
+      }
+    },
+    {
+      "rank": 14,
+      "title": "鼻塞疏通教程",
+      "source": "B站",
+      "heat": "1033237",
+      "url": "https://www.bilibili.com/video/BV1rFnc69EFU",
+      "prev": 13,
+      "delta": -1,
+      "isNew": false,
+      "track": {
+        "first": "2026-10-21 07:35",
+        "hits": 8,
+        "best": 9
+      }
+    },
+    {
+      "rank": 15,
+      "title": "《三过车门而不入》",
+      "source": "B站",
+      "heat": "1515466",
+      "url": "https://www.bilibili.com/video/BV1n7nF6WEco",
+      "prev": 6,
+      "delta": -9,
+      "isNew": false,
+      "track": {
+        "first": "2026-10-20 12:24",
+        "hits": 23,
+        "best": 6
       }
     },
     {
@@ -689,43 +689,43 @@
       "source": "百度",
       "heat": "",
       "url": "https://m.baidu.com/s?word=%E8%B5%B0%E5%A5%BD%E6%96%B0%E6%97%B6%E4%BB%A3%E7%9A%84%E9%95%BF%E5%BE%81%E8%B7%AF&sa=fyb_news",
-      "prev": null,
+      "prev": 1,
       "delta": 0,
-      "isNew": true,
+      "isNew": false,
       "track": {
         "first": "2026-10-21 13:33",
-        "hits": 1,
+        "hits": 2,
         "best": 1
       }
     },
     {
       "rank": 2,
-      "title": "泽连斯基：愿保留75%领土控制权达协议",
+      "title": "南京警方回应留学生披旭日旗事件",
       "source": "百度",
       "heat": "",
-      "url": "https://m.baidu.com/s?word=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%84%BF%E4%BF%9D%E7%95%9975%25%E9%A2%86%E5%9C%9F%E6%8E%A7%E5%88%B6%E6%9D%83%E8%BE%BE%E5%8D%8F%E8%AE%AE&sa=fyb_news",
-      "prev": 2,
+      "url": "https://m.baidu.com/s?word=%E5%8D%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%95%99%E5%AD%A6%E7%94%9F%E6%8A%AB%E6%97%AD%E6%97%A5%E6%97%97%E4%BA%8B%E4%BB%B6&sa=fyb_news",
+      "prev": null,
       "delta": 0,
-      "isNew": false,
+      "isNew": true,
       "track": {
-        "first": "2026-10-21 12:25",
-        "hits": 2,
+        "first": "2026-10-21 14:25",
+        "hits": 1,
         "best": 2
       }
     },
     {
       "rank": 3,
-      "title": "14家银行叫停或限制个人异地存款",
+      "title": "泽连斯基：愿保留75%领土控制权达协议",
       "source": "百度",
       "heat": "",
-      "url": "https://m.baidu.com/s?word=14%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%AB%E5%81%9C%E6%88%96%E9%99%90%E5%88%B6%E4%B8%AA%E4%BA%BA%E5%BC%82%E5%9C%B0%E5%AD%98%E6%AC%BE&sa=fyb_news",
-      "prev": 3,
-      "delta": 0,
+      "url": "https://m.baidu.com/s?word=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%84%BF%E4%BF%9D%E7%95%9975%25%E9%A2%86%E5%9C%9F%E6%8E%A7%E5%88%B6%E6%9D%83%E8%BE%BE%E5%8D%8F%E8%AE%AE&sa=fyb_news",
+      "prev": 2,
+      "delta": -1,
       "isNew": false,
       "track": {
         "first": "2026-10-21 12:25",
-        "hits": 2,
-        "best": 3
+        "hits": 3,
+        "best": 2
       }
     },
     {
@@ -734,73 +734,73 @@
       "source": "百度",
       "heat": "",
       "url": "https://m.baidu.com/s?word=%E5%AE%83%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E5%8F%AB%E2%80%9C%E9%95%BF%E5%BE%81%E2%80%9D&sa=fyb_news",
-      "prev": null,
+      "prev": 4,
       "delta": 0,
-      "isNew": true,
+      "isNew": false,
       "track": {
         "first": "2026-10-21 13:33",
-        "hits": 1,
+        "hits": 2,
         "best": 4
       }
     },
     {
       "rank": 5,
-      "title": "日企承认引发蒙古国草原火灾",
+      "title": "亚残运会中国国歌被放成韩国国歌",
       "source": "百度",
       "heat": "",
-      "url": "https://m.baidu.com/s?word=%E6%97%A5%E4%BC%81%E6%89%BF%E8%AE%A4%E5%BC%95%E5%8F%91%E8%92%99%E5%8F%A4%E5%9B%BD%E8%8D%89%E5%8E%9F%E7%81%AB%E7%81%BE&sa=fyb_news",
+      "url": "https://m.baidu.com/s?word=%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%AD%8C%E8%A2%AB%E6%94%BE%E6%88%90%E9%9F%A9%E5%9B%BD%E5%9B%BD%E6%AD%8C&sa=fyb_news",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-10-21 13:33",
+        "first": "2026-10-21 14:25",
         "hits": 1,
         "best": 5
       }
     },
     {
       "rank": 6,
-      "title": "神似大S博主现身F4演唱会",
+      "title": "还没走到垃圾桶旁 纸箱就被人抢走了",
       "source": "百度",
       "heat": "",
-      "url": "https://m.baidu.com/s?word=%E7%A5%9E%E4%BC%BC%E5%A4%A7S%E5%8D%9A%E4%B8%BB%E7%8E%B0%E8%BA%ABF4%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news",
+      "url": "https://m.baidu.com/s?word=%E8%BF%98%E6%B2%A1%E8%B5%B0%E5%88%B0%E5%9E%83%E5%9C%BE%E6%A1%B6%E6%97%81+%E7%BA%B8%E7%AE%B1%E5%B0%B1%E8%A2%AB%E4%BA%BA%E6%8A%A2%E8%B5%B0%E4%BA%86&sa=fyb_news",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-10-21 13:33",
+        "first": "2026-10-21 14:25",
         "hits": 1,
         "best": 6
       }
     },
     {
       "rank": 7,
-      "title": "董明珠：喊我奶奶 我听了很不开心",
+      "title": "杨幂压轴亮相芭莎红毯",
       "source": "百度",
       "heat": "",
-      "url": "https://m.baidu.com/s?word=%E8%91%A3%E6%98%8E%E7%8F%A0%EF%BC%9A%E5%96%8A%E6%88%91%E5%A5%B6%E5%A5%B6+%E6%88%91%E5%90%AC%E4%BA%86%E5%BE%88%E4%B8%8D%E5%BC%80%E5%BF%83&sa=fyb_news",
-      "prev": 7,
+      "url": "https://m.baidu.com/s?word=%E6%9D%A8%E5%B9%82%E5%8E%8B%E8%BD%B4%E4%BA%AE%E7%9B%B8%E8%8A%AD%E8%8E%8E%E7%BA%A2%E6%AF%AF&sa=fyb_news",
+      "prev": null,
       "delta": 0,
-      "isNew": false,
+      "isNew": true,
       "track": {
-        "first": "2026-10-21 12:25",
-        "hits": 2,
+        "first": "2026-10-21 14:25",
+        "hits": 1,
         "best": 7
       }
     },
     {
       "rank": 8,
-      "title": "伊朗“摸鞋哥”全身都是戏",
+      "title": "董明珠：喊我奶奶 我听了很不开心",
       "source": "百度",
       "heat": "",
-      "url": "https://m.baidu.com/s?word=%E4%BC%8A%E6%9C%97%E2%80%9C%E6%91%B8%E9%9E%8B%E5%93%A5%E2%80%9D%E5%85%A8%E8%BA%AB%E9%83%BD%E6%98%AF%E6%88%8F&sa=fyb_news",
-      "prev": null,
-      "delta": 0,
-      "isNew": true,
+      "url": "https://m.baidu.com/s?word=%E8%91%A3%E6%98%8E%E7%8F%A0%EF%BC%9A%E5%96%8A%E6%88%91%E5%A5%B6%E5%A5%B6+%E6%88%91%E5%90%AC%E4%BA%86%E5%BE%88%E4%B8%8D%E5%BC%80%E5%BF%83&sa=fyb_news",
+      "prev": 7,
+      "delta": -1,
+      "isNew": false,
       "track": {
-        "first": "2026-10-21 13:33",
-        "hits": 1,
-        "best": 8
+        "first": "2026-10-21 12:25",
+        "hits": 3,
+        "best": 7
       }
     },
     {
@@ -809,42 +809,42 @@
       "source": "百度",
       "heat": "",
       "url": "https://m.baidu.com/s?word=%E9%A9%AC%E5%A4%A9%E5%AE%87%E5%BC%A0%E8%90%8C%E5%8D%81%E5%B9%B4%E5%90%8E%E9%87%8D%E8%81%9A+%E8%8A%82%E7%9B%AE%E4%B8%AD%E5%A4%A7%E5%93%AD&sa=fyb_news",
-      "prev": null,
+      "prev": 9,
       "delta": 0,
-      "isNew": true,
+      "isNew": false,
       "track": {
         "first": "2026-10-21 13:33",
-        "hits": 1,
+        "hits": 2,
         "best": 9
       }
     },
     {
       "rank": 10,
-      "title": "女子被自家12斤猫咪踹进手术室",
+      "title": "14家银行叫停或限制个人异地存款",
       "source": "百度",
       "heat": "",
-      "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%87%AA%E5%AE%B612%E6%96%A4%E7%8C%AB%E5%92%AA%E8%B8%B9%E8%BF%9B%E6%89%8B%E6%9C%AF%E5%AE%A4&sa=fyb_news",
-      "prev": 8,
-      "delta": -2,
+      "url": "https://m.baidu.com/s?word=14%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%AB%E5%81%9C%E6%88%96%E9%99%90%E5%88%B6%E4%B8%AA%E4%BA%BA%E5%BC%82%E5%9C%B0%E5%AD%98%E6%AC%BE&sa=fyb_news",
+      "prev": 3,
+      "delta": -7,
       "isNew": false,
       "track": {
-        "first": "2026-10-21 11:23",
+        "first": "2026-10-21 12:25",
         "hits": 3,
-        "best": 8
+        "best": 3
       }
     },
     {
       "rank": 11,
-      "title": "“把我撂得高高的 我都哭了”",
+      "title": "纪念活动男子吹响冲锋号 全场沸腾",
       "source": "百度",
       "heat": "",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E6%8A%8A%E6%88%91%E6%92%82%E5%BE%97%E9%AB%98%E9%AB%98%E7%9A%84+%E6%88%91%E9%83%BD%E5%93%AD%E4%BA%86%E2%80%9D&sa=fyb_news",
-      "prev": 11,
+      "url": "https://m.baidu.com/s?word=%E7%BA%AA%E5%BF%B5%E6%B4%BB%E5%8A%A8%E7%94%B7%E5%AD%90%E5%90%B9%E5%93%8D%E5%86%B2%E9%94%8B%E5%8F%B7+%E5%85%A8%E5%9C%BA%E6%B2%B8%E8%85%BE&sa=fyb_news",
+      "prev": null,
       "delta": 0,
-      "isNew": false,
+      "isNew": true,
       "track": {
-        "first": "2026-10-21 11:23",
-        "hits": 3,
+        "first": "2026-10-21 14:25",
+        "hits": 1,
         "best": 11
       }
     },
@@ -859,7 +859,7 @@
       "isNew": false,
       "track": {
         "first": "2026-10-21 10:24",
-        "hits": 4,
+        "hits": 5,
         "best": 12
       }
     },
@@ -869,12 +869,12 @@
       "source": "百度",
       "heat": "",
       "url": "https://m.baidu.com/s?word=3%E5%B0%8F%E6%97%B6%E5%86%85%E8%BF%9E%E6%9D%803%E4%BA%BA+49%E5%B2%81%E7%94%B7%E5%AD%90%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91&sa=fyb_news",
-      "prev": 15,
-      "delta": 2,
+      "prev": 13,
+      "delta": 0,
       "isNew": false,
       "track": {
         "first": "2026-10-21 12:25",
-        "hits": 2,
+        "hits": 3,
         "best": 13
       }
     },
@@ -884,44 +884,44 @@
       "source": "百度",
       "heat": "",
       "url": "https://m.baidu.com/s?word=%E6%AF%9B%E4%B8%8D%E6%98%93%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%A9%9A%E7%A4%BC%E4%B8%8A%E7%9C%9F%E8%AF%9A%E8%87%B4%E8%BE%9E&sa=fyb_news",
-      "prev": null,
+      "prev": 14,
       "delta": 0,
-      "isNew": true,
+      "isNew": false,
       "track": {
         "first": "2026-10-21 13:33",
-        "hits": 1,
+        "hits": 2,
         "best": 14
       }
     },
     {
       "rank": 15,
-      "title": "网红国货“被迫”改名 亏损6000万",
+      "title": "为何手机卖不动了",
       "source": "百度",
       "heat": "",
-      "url": "https://m.baidu.com/s?word=%E7%BD%91%E7%BA%A2%E5%9B%BD%E8%B4%A7%E2%80%9C%E8%A2%AB%E8%BF%AB%E2%80%9D%E6%94%B9%E5%90%8D+%E4%BA%8F%E6%8D%9F6000%E4%B8%87&sa=fyb_news",
-      "prev": 13,
-      "delta": -2,
-      "isNew": false,
+      "url": "https://m.baidu.com/s?word=%E4%B8%BA%E4%BD%95%E6%89%8B%E6%9C%BA%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
       "track": {
-        "first": "2026-10-21 10:24",
-        "hits": 3,
-        "best": 7
+        "first": "2026-10-21 14:25",
+        "hits": 1,
+        "best": 15
       }
     }
   ],
   "stats": {
     "total": 60,
-    "newCount": 35,
-    "upCount": 5,
-    "downCount": 11,
+    "newCount": 23,
+    "upCount": 7,
+    "downCount": 15,
     "sources": {
       "微博": 15,
       "头条": 15,
       "B站": 15,
       "百度": 15
     },
-    "crawls": 294,
+    "crawls": 295,
     "since": "2026-10-09 14:53",
-    "tracked": 675
+    "tracked": 681
   }
 }
