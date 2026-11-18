@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18 02:03",
+  "updatedAt": "2026-11-18 11:03",
   "snapshotDate": "2026-11-18",
   "sources": [
     "微博",
@@ -10,495 +10,495 @@
   "items": [
     {
       "rank": 1,
-      "title": "深圳人全妆出街迎APEC",
+      "title": "习近平迎接美国总统特朗普",
       "source": "微博",
-      "heat": "1117447",
-      "url": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E4%BA%BA%E5%85%A8%E5%A6%86%E5%87%BA%E8%A1%97%E8%BF%8EAPEC",
-      "prev": 6,
-      "delta": 5,
-      "isNew": false,
-      "track": {
-        "first": "2026-11-17 19:33",
-        "hits": 2,
-        "best": 1
-      }
-    },
-    {
-      "rank": 2,
-      "title": "韩国总统李在明抵达深圳",
-      "source": "微博",
-      "heat": "784308",
-      "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3",
+      "heat": "1124194",
+      "url": "https://s.weibo.com/weibo?q=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BF%8E%E6%8E%A5%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-11-18 02:03",
-        "hits": 1,
-        "best": 2
-      }
-    },
-    {
-      "rank": 3,
-      "title": "2026APEC这些看点值得期待",
-      "source": "微博",
-      "heat": "660386",
-      "url": "https://s.weibo.com/weibo?q=2026APEC%E8%BF%99%E4%BA%9B%E7%9C%8B%E7%82%B9%E5%80%BC%E5%BE%97%E6%9C%9F%E5%BE%85",
-      "prev": 3,
-      "delta": 0,
-      "isNew": false,
-      "track": {
-        "first": "2026-11-17 10:06",
-        "hits": 3,
-        "best": 3
-      }
-    },
-    {
-      "rank": 4,
-      "title": "APEC",
-      "source": "微博",
-      "heat": "392479",
-      "url": "https://s.weibo.com/weibo?q=APEC",
-      "prev": null,
-      "delta": 0,
-      "isNew": true,
-      "track": {
-        "first": "2026-11-17 01:30",
-        "hits": 2,
-        "best": 2
-      }
-    },
-    {
-      "rank": 5,
-      "title": "41人没症状被AI查出早期肠癌",
-      "source": "微博",
-      "heat": "391302",
-      "url": "https://s.weibo.com/weibo?q=41%E4%BA%BA%E6%B2%A1%E7%97%87%E7%8A%B6%E8%A2%ABAI%E6%9F%A5%E5%87%BA%E6%97%A9%E6%9C%9F%E8%82%A0%E7%99%8C",
-      "prev": null,
-      "delta": 0,
-      "isNew": true,
-      "track": {
-        "first": "2026-11-18 02:03",
-        "hits": 1,
-        "best": 5
-      }
-    },
-    {
-      "rank": 6,
-      "title": "作家斯琴高娃逝世",
-      "source": "微博",
-      "heat": "390436",
-      "url": "https://s.weibo.com/weibo?q=%E4%BD%9C%E5%AE%B6%E6%96%AF%E7%90%B4%E9%AB%98%E5%A8%83%E9%80%9D%E4%B8%96",
-      "prev": null,
-      "delta": 0,
-      "isNew": true,
-      "track": {
-        "first": "2026-11-18 02:03",
-        "hits": 1,
-        "best": 6
-      }
-    },
-    {
-      "rank": 7,
-      "title": "普京抵达深圳",
-      "source": "微博",
-      "heat": "387585",
-      "url": "https://s.weibo.com/weibo?q=%E6%99%AE%E4%BA%AC%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3",
-      "prev": null,
-      "delta": 0,
-      "isNew": true,
-      "track": {
-        "first": "2026-11-18 02:03",
-        "hits": 1,
-        "best": 7
-      }
-    },
-    {
-      "rank": 8,
-      "title": "Faker获电竞世界杯选手选择奖第一名",
-      "source": "微博",
-      "heat": "386240",
-      "url": "https://s.weibo.com/weibo?q=Faker%E8%8E%B7%E7%94%B5%E7%AB%9E%E4%B8%96%E7%95%8C%E6%9D%AF%E9%80%89%E6%89%8B%E9%80%89%E6%8B%A9%E5%A5%96%E7%AC%AC%E4%B8%80%E5%90%8D",
-      "prev": null,
-      "delta": 0,
-      "isNew": true,
-      "track": {
-        "first": "2026-11-18 02:03",
-        "hits": 1,
-        "best": 8
-      }
-    },
-    {
-      "rank": 9,
-      "title": "原来潮汐车道是这么变出来的",
-      "source": "微博",
-      "heat": "383509",
-      "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%BD%AE%E6%B1%90%E8%BD%A6%E9%81%93%E6%98%AF%E8%BF%99%E4%B9%88%E5%8F%98%E5%87%BA%E6%9D%A5%E7%9A%84",
-      "prev": null,
-      "delta": 0,
-      "isNew": true,
-      "track": {
-        "first": "2026-11-18 02:03",
-        "hits": 1,
-        "best": 9
-      }
-    },
-    {
-      "rank": 10,
-      "title": "Ruler看BLG捧杯摇头不语",
-      "source": "微博",
-      "heat": "383331",
-      "url": "https://s.weibo.com/weibo?q=Ruler%E7%9C%8BBLG%E6%8D%A7%E6%9D%AF%E6%91%87%E5%A4%B4%E4%B8%8D%E8%AF%AD",
-      "prev": null,
-      "delta": 0,
-      "isNew": true,
-      "track": {
-        "first": "2026-11-18 02:03",
-        "hits": 1,
-        "best": 10
-      }
-    },
-    {
-      "rank": 11,
-      "title": "郑恺女儿英文水平超过不少大学生了",
-      "source": "微博",
-      "heat": "380386",
-      "url": "https://s.weibo.com/weibo?q=%E9%83%91%E6%81%BA%E5%A5%B3%E5%84%BF%E8%8B%B1%E6%96%87%E6%B0%B4%E5%B9%B3%E8%B6%85%E8%BF%87%E4%B8%8D%E5%B0%91%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BA%86",
-      "prev": null,
-      "delta": 0,
-      "isNew": true,
-      "track": {
-        "first": "2026-11-18 02:03",
-        "hits": 1,
-        "best": 11
-      }
-    },
-    {
-      "rank": 12,
-      "title": "供应商快被车企拖死了",
-      "source": "微博",
-      "heat": "378981",
-      "url": "https://s.weibo.com/weibo?q=%E4%BE%9B%E5%BA%94%E5%95%86%E5%BF%AB%E8%A2%AB%E8%BD%A6%E4%BC%81%E6%8B%96%E6%AD%BB%E4%BA%86",
-      "prev": null,
-      "delta": 0,
-      "isNew": true,
-      "track": {
-        "first": "2026-11-18 02:03",
-        "hits": 1,
-        "best": 12
-      }
-    },
-    {
-      "rank": 13,
-      "title": "129万一针抗癌药进医保",
-      "source": "微博",
-      "heat": "376525",
-      "url": "https://s.weibo.com/weibo?q=129%E4%B8%87%E4%B8%80%E9%92%88%E6%8A%97%E7%99%8C%E8%8D%AF%E8%BF%9B%E5%8C%BB%E4%BF%9D",
-      "prev": null,
-      "delta": 0,
-      "isNew": true,
-      "track": {
-        "first": "2026-11-18 02:03",
-        "hits": 1,
-        "best": 13
-      }
-    },
-    {
-      "rank": 14,
-      "title": "韩网热议海外韩剧粉爬墙中剧",
-      "source": "微博",
-      "heat": "375855",
-      "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E7%BD%91%E7%83%AD%E8%AE%AE%E6%B5%B7%E5%A4%96%E9%9F%A9%E5%89%A7%E7%B2%89%E7%88%AC%E5%A2%99%E4%B8%AD%E5%89%A7",
-      "prev": null,
-      "delta": 0,
-      "isNew": true,
-      "track": {
-        "first": "2026-11-18 02:03",
-        "hits": 1,
-        "best": 14
-      }
-    },
-    {
-      "rank": 15,
-      "title": "黄金",
-      "source": "微博",
-      "heat": "373636",
-      "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91",
-      "prev": null,
-      "delta": 0,
-      "isNew": true,
-      "track": {
-        "first": "2026-11-18 02:03",
-        "hits": 1,
-        "best": 15
-      }
-    },
-    {
-      "rank": 1,
-      "title": "凌晨接机“中国排面”依旧整齐划一",
-      "source": "头条",
-      "heat": "33685237",
-      "url": "https://www.toutiao.com/trending/7708813646168096810/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227708813646168096810%22%2C%22hot_board_impr_id%22%3A%222026111810034709B647577B4465D5F2F7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%87%8C%E6%99%A8%E6%8E%A5%E6%9C%BA%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%8E%92%E9%9D%A2%E2%80%9D%E4%BE%9D%E6%97%A7%E6%95%B4%E9%BD%90%E5%88%92%E4%B8%80%22%7D&rank=&style_id=40132&topic_id=7708813646168096810",
-      "prev": null,
-      "delta": 0,
-      "isNew": true,
-      "track": {
-        "first": "2026-11-18 02:03",
+        "first": "2026-11-18 11:03",
         "hits": 1,
         "best": 1
       }
     },
     {
       "rank": 2,
-      "title": "文莱领导人握手前中方安保1秒摘手套",
-      "source": "头条",
-      "heat": "30479663",
-      "url": "https://www.toutiao.com/trending/7709211203091972150/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227709211203091972150%22%2C%22hot_board_impr_id%22%3A%222026111810034709B647577B4465D5F2F7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%96%87%E8%8E%B1%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%8F%A1%E6%89%8B%E5%89%8D%E4%B8%AD%E6%96%B9%E5%AE%89%E4%BF%9D1%E7%A7%92%E6%91%98%E6%89%8B%E5%A5%97%22%7D&rank=&style_id=40132&topic_id=7709211203091972150",
+      "title": "特朗普车队车前插中美两国国旗",
+      "source": "微博",
+      "heat": "1048099",
+      "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BD%A6%E9%98%9F%E8%BD%A6%E5%89%8D%E6%8F%92%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%9B%BD%E5%9B%BD%E6%97%97",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-11-18 02:03",
+        "first": "2026-11-18 11:03",
         "hits": 1,
         "best": 2
       }
     },
     {
       "rank": 3,
-      "title": "APEC工商领导人峰会今天聚焦哪些议题",
-      "source": "头条",
-      "heat": "27579139",
-      "url": "https://www.toutiao.com/trending/7708221528491658793/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227708221528491658793%22%2C%22hot_board_impr_id%22%3A%222026111810034709B647577B4465D5F2F7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E4%BB%8A%E5%A4%A9%E8%81%9A%E7%84%A6%E5%93%AA%E4%BA%9B%E8%AE%AE%E9%A2%98%22%7D&rank=&style_id=40132&topic_id=7708221528491658793",
-      "prev": 3,
+      "title": "APEC供应链也是共赢链",
+      "source": "微博",
+      "heat": "767024",
+      "url": "https://s.weibo.com/weibo?q=APEC%E4%BE%9B%E5%BA%94%E9%93%BE%E4%B9%9F%E6%98%AF%E5%85%B1%E8%B5%A2%E9%93%BE",
+      "prev": null,
       "delta": 0,
-      "isNew": false,
+      "isNew": true,
       "track": {
-        "first": "2026-11-17 19:33",
-        "hits": 2,
+        "first": "2026-11-18 11:03",
+        "hits": 1,
         "best": 3
       }
     },
     {
       "rank": 4,
-      "title": "普京罕见无提包保镖贴身",
-      "source": "头条",
-      "heat": "24954637",
-      "url": "https://www.toutiao.com/trending/7709298267833536051/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227709298267833536051%22%2C%22hot_board_impr_id%22%3A%222026111810034709B647577B4465D5F2F7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%99%AE%E4%BA%AC%E7%BD%95%E8%A7%81%E6%97%A0%E6%8F%90%E5%8C%85%E4%BF%9D%E9%95%96%E8%B4%B4%E8%BA%AB%22%7D&rank=&style_id=40132&topic_id=7709298267833536051",
+      "title": "这波冷空气要把气温打到多低",
+      "source": "微博",
+      "heat": "759800",
+      "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E6%B3%A2%E5%86%B7%E7%A9%BA%E6%B0%94%E8%A6%81%E6%8A%8A%E6%B0%94%E6%B8%A9%E6%89%93%E5%88%B0%E5%A4%9A%E4%BD%8E",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-11-18 02:03",
+        "first": "2026-11-18 11:03",
         "hits": 1,
         "best": 4
       }
     },
     {
       "rank": 5,
-      "title": "智利总统专机悬挂中智两国国旗",
-      "source": "头条",
-      "heat": "22579889",
-      "url": "https://www.toutiao.com/trending/7709154715417821723/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227709154715417821723%22%2C%22hot_board_impr_id%22%3A%222026111810034709B647577B4465D5F2F7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%99%BA%E5%88%A9%E6%80%BB%E7%BB%9F%E4%B8%93%E6%9C%BA%E6%82%AC%E6%8C%82%E4%B8%AD%E6%99%BA%E4%B8%A4%E5%9B%BD%E5%9B%BD%E6%97%97%22%7D&rank=&style_id=40132&topic_id=7709154715417821723",
+      "title": "中美元首握手",
+      "source": "微博",
+      "heat": "739239",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%8F%A1%E6%89%8B",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-11-18 02:03",
+        "first": "2026-11-18 11:03",
         "hits": 1,
         "best": 5
       }
     },
     {
       "rank": 6,
-      "title": "深圳公交全是新能源车",
-      "source": "头条",
-      "heat": "20431129",
-      "url": "https://www.toutiao.com/trending/7704916360505508361/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227704916360505508361%22%2C%22hot_board_impr_id%22%3A%222026111810034709B647577B4465D5F2F7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B7%B1%E5%9C%B3%E5%85%AC%E4%BA%A4%E5%85%A8%E6%98%AF%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%22%7D&rank=&style_id=40132&topic_id=7704916360505508361",
+      "title": "泰国总理回到广东老家格外兴奋",
+      "source": "微博",
+      "heat": "522808",
+      "url": "https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E5%9B%9E%E5%88%B0%E5%B9%BF%E4%B8%9C%E8%80%81%E5%AE%B6%E6%A0%BC%E5%A4%96%E5%85%B4%E5%A5%8B",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-11-18 02:03",
+        "first": "2026-11-18 11:03",
         "hits": 1,
         "best": 6
       }
     },
     {
       "rank": 7,
-      "title": "普京抵达深圳",
-      "source": "头条",
-      "heat": "18486850",
-      "url": "https://www.toutiao.com/trending/7709277155649130047/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227709277155649130047%22%2C%22hot_board_impr_id%22%3A%222026111810034709B647577B4465D5F2F7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%99%AE%E4%BA%AC%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%22%7D&rank=&style_id=40132&topic_id=7709277155649130047",
+      "title": "迎接特朗普仪式",
+      "source": "微博",
+      "heat": "462359",
+      "url": "https://s.weibo.com/weibo?q=%E8%BF%8E%E6%8E%A5%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%AA%E5%BC%8F",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-11-18 02:03",
-        "hits": 2,
+        "first": "2026-11-18 11:03",
+        "hits": 1,
         "best": 7
       }
     },
     {
       "rank": 8,
-      "title": "男子结婚9年三个子女非亲生",
-      "source": "头条",
-      "heat": "16727593",
-      "url": "https://www.toutiao.com/trending/7709031030765977627/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%229%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227709031030765977627%22%2C%22hot_board_impr_id%22%3A%222026111810034709B647577B4465D5F2F7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A9%E5%B9%B4%E4%B8%89%E4%B8%AA%E5%AD%90%E5%A5%B3%E9%9D%9E%E4%BA%B2%E7%94%9F%22%7D&rank=&style_id=40132&topic_id=7709031030765977627",
+      "title": "高铁一旦开窗人会被气流吸出去是假的",
+      "source": "微博",
+      "heat": "451669",
+      "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E9%93%81%E4%B8%80%E6%97%A6%E5%BC%80%E7%AA%97%E4%BA%BA%E4%BC%9A%E8%A2%AB%E6%B0%94%E6%B5%81%E5%90%B8%E5%87%BA%E5%8E%BB%E6%98%AF%E5%81%87%E7%9A%84",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-11-18 02:03",
+        "first": "2026-11-18 11:03",
         "hits": 1,
         "best": 8
       }
     },
     {
       "rank": 9,
-      "title": "深圳以暖心服务迎接亚太宾客",
-      "source": "头条",
-      "heat": "15135752",
-      "url": "https://www.toutiao.com/trending/7708734959909158954/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227708734959909158954%22%2C%22hot_board_impr_id%22%3A%222026111810034709B647577B4465D5F2F7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B7%B1%E5%9C%B3%E4%BB%A5%E6%9A%96%E5%BF%83%E6%9C%8D%E5%8A%A1%E8%BF%8E%E6%8E%A5%E4%BA%9A%E5%A4%AA%E5%AE%BE%E5%AE%A2%22%7D&rank=&style_id=40132&topic_id=7708734959909158954",
-      "prev": 9,
+      "title": "普京到访深圳高校并发表演讲",
+      "source": "微博",
+      "heat": "399474",
+      "url": "https://s.weibo.com/weibo?q=%E6%99%AE%E4%BA%AC%E5%88%B0%E8%AE%BF%E6%B7%B1%E5%9C%B3%E9%AB%98%E6%A0%A1%E5%B9%B6%E5%8F%91%E8%A1%A8%E6%BC%94%E8%AE%B2",
+      "prev": null,
       "delta": 0,
-      "isNew": false,
+      "isNew": true,
       "track": {
-        "first": "2026-11-17 19:33",
-        "hits": 2,
+        "first": "2026-11-18 11:03",
+        "hits": 1,
         "best": 9
       }
     },
     {
       "rank": 10,
-      "title": "李在明夫妇向中方迎宾人员鼓掌致意",
-      "source": "头条",
-      "heat": "13695395",
-      "url": "https://www.toutiao.com/trending/7708758892087525427/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227708758892087525427%22%2C%22hot_board_impr_id%22%3A%222026111810034709B647577B4465D5F2F7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%A4%AB%E5%A6%87%E5%90%91%E4%B8%AD%E6%96%B9%E8%BF%8E%E5%AE%BE%E4%BA%BA%E5%91%98%E9%BC%93%E6%8E%8C%E8%87%B4%E6%84%8F%22%7D&rank=&style_id=40132&topic_id=7708758892087525427",
+      "title": "竞燃之夜节目单",
+      "source": "微博",
+      "heat": "357030",
+      "url": "https://s.weibo.com/weibo?q=%E7%AB%9E%E7%87%83%E4%B9%8B%E5%A4%9C%E8%8A%82%E7%9B%AE%E5%8D%95",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-11-18 02:03",
+        "first": "2026-11-18 11:03",
         "hits": 1,
         "best": 10
       }
     },
     {
       "rank": 11,
-      "title": "小米辟谣汽车召回短信",
-      "source": "头条",
-      "heat": "12392106",
-      "url": "https://www.toutiao.com/trending/7708441725144137782/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%223%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227708441725144137782%22%2C%22hot_board_impr_id%22%3A%222026111810034709B647577B4465D5F2F7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E8%BE%9F%E8%B0%A3%E6%B1%BD%E8%BD%A6%E5%8F%AC%E5%9B%9E%E7%9F%AD%E4%BF%A1%22%7D&rank=&style_id=40132&topic_id=7708441725144137782",
-      "prev": 11,
+      "title": "APEC最高级别会议为何叫作非正式",
+      "source": "微博",
+      "heat": "354655",
+      "url": "https://s.weibo.com/weibo?q=APEC%E6%9C%80%E9%AB%98%E7%BA%A7%E5%88%AB%E4%BC%9A%E8%AE%AE%E4%B8%BA%E4%BD%95%E5%8F%AB%E4%BD%9C%E9%9D%9E%E6%AD%A3%E5%BC%8F",
+      "prev": null,
       "delta": 0,
-      "isNew": false,
+      "isNew": true,
       "track": {
-        "first": "2026-11-17 19:33",
-        "hits": 2,
+        "first": "2026-11-18 11:03",
+        "hits": 1,
         "best": 11
       }
     },
     {
       "rank": 12,
-      "title": "女作家斯琴高娃逝世 享年93岁",
-      "source": "头条",
-      "heat": "11212841",
-      "url": "https://www.toutiao.com/trending/7709160308195164699/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227709160308195164699%22%2C%22hot_board_impr_id%22%3A%222026111810034709B647577B4465D5F2F7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A5%B3%E4%BD%9C%E5%AE%B6%E6%96%AF%E7%90%B4%E9%AB%98%E5%A8%83%E9%80%9D%E4%B8%96+%E4%BA%AB%E5%B9%B493%E5%B2%81%22%7D&rank=&style_id=40132&topic_id=7709160308195164699",
+      "title": "微博竞燃之夜",
+      "source": "微博",
+      "heat": "354332",
+      "url": "https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E7%AB%9E%E7%87%83%E4%B9%8B%E5%A4%9C",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-11-18 02:03",
+        "first": "2026-11-18 11:03",
         "hits": 1,
         "best": 12
       }
     },
     {
       "rank": 13,
-      "title": "沈阳中街大屏播放赵本山《慌啥子嘛》",
-      "source": "头条",
-      "heat": "10145798",
-      "url": "https://www.toutiao.com/trending/7709079485991305738/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227709079485991305738%22%2C%22hot_board_impr_id%22%3A%222026111810034709B647577B4465D5F2F7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B2%88%E9%98%B3%E4%B8%AD%E8%A1%97%E5%A4%A7%E5%B1%8F%E6%92%AD%E6%94%BE%E8%B5%B5%E6%9C%AC%E5%B1%B1%E3%80%8A%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E3%80%8B%22%7D&rank=&style_id=40132&topic_id=7709079485991305738",
+      "title": "女生当众求婚男生拂袖离开",
+      "source": "微博",
+      "heat": "351621",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E5%BD%93%E4%BC%97%E6%B1%82%E5%A9%9A%E7%94%B7%E7%94%9F%E6%8B%82%E8%A2%96%E7%A6%BB%E5%BC%80",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-11-18 02:03",
+        "first": "2026-11-18 11:03",
         "hits": 1,
         "best": 13
       }
     },
     {
       "rank": 14,
-      "title": "深圳市民给APEC晚宴疯狂安利猪脚饭",
-      "source": "头条",
-      "heat": "9180298",
-      "url": "https://www.toutiao.com/trending/7708571384561074203/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227708571384561074203%22%2C%22hot_board_impr_id%22%3A%222026111810034709B647577B4465D5F2F7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B7%B1%E5%9C%B3%E5%B8%82%E6%B0%91%E7%BB%99APEC%E6%99%9A%E5%AE%B4%E7%96%AF%E7%8B%82%E5%AE%89%E5%88%A9%E7%8C%AA%E8%84%9A%E9%A5%AD%22%7D&rank=&style_id=40132&topic_id=7708571384561074203",
-      "prev": 1,
-      "delta": -13,
-      "isNew": false,
-      "track": {
-        "first": "2026-11-17 19:33",
-        "hits": 2,
-        "best": 1
-      }
-    },
-    {
-      "rank": 15,
-      "title": "刘德华辅导女儿写作业也烦恼",
-      "source": "头条",
-      "heat": "8306677",
-      "url": "https://www.toutiao.com/trending/7708947257860588041/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2216%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227708947257860588041%22%2C%22hot_board_impr_id%22%3A%222026111810034709B647577B4465D5F2F7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%88%98%E5%BE%B7%E5%8D%8E%E8%BE%85%E5%AF%BC%E5%A5%B3%E5%84%BF%E5%86%99%E4%BD%9C%E4%B8%9A%E4%B9%9F%E7%83%A6%E6%81%BC%22%7D&rank=&style_id=40132&topic_id=7708947257860588041",
+      "title": "曝迪丽热巴主演从前有只鲸",
+      "source": "微博",
+      "heat": "347527",
+      "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%BB%E6%BC%94%E4%BB%8E%E5%89%8D%E6%9C%89%E5%8F%AA%E9%B2%B8",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-11-18 02:03",
+        "first": "2026-11-18 11:03",
+        "hits": 1,
+        "best": 14
+      }
+    },
+    {
+      "rank": 15,
+      "title": "特朗普抵达深圳中方战机拉起彩烟",
+      "source": "微博",
+      "heat": "345987",
+      "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E4%B8%AD%E6%96%B9%E6%88%98%E6%9C%BA%E6%8B%89%E8%B5%B7%E5%BD%A9%E7%83%9F",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
+      "track": {
+        "first": "2026-11-18 11:03",
         "hits": 1,
         "best": 15
       }
     },
     {
       "rank": 1,
-      "title": "“他们没有任何血缘关系，但却拥有同一个妈妈.”【Scared play sacred place】【治愈心灵の小曲】",
-      "source": "B站",
-      "heat": "1507823",
-      "url": "https://www.bilibili.com/video/BV12MsK6tEV1",
-      "prev": 3,
-      "delta": 2,
-      "isNew": false,
+      "title": "习近平迎接特朗普",
+      "source": "头条",
+      "heat": "41444396",
+      "url": "https://www.toutiao.com/article/7709447792728588815",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
       "track": {
-        "first": "2026-11-17 10:06",
-        "hits": 3,
+        "first": "2026-11-18 11:03",
+        "hits": 1,
         "best": 1
       }
     },
     {
       "rank": 2,
-      "title": "钢铁侠给贾维斯装上病娇插件，这下玩大了",
-      "source": "B站",
-      "heat": "816504",
-      "url": "https://www.bilibili.com/video/BV1fDsu6xEyA",
-      "prev": 6,
-      "delta": 4,
-      "isNew": false,
+      "title": "特朗普抵达深圳",
+      "source": "头条",
+      "heat": "37500440",
+      "url": "https://www.toutiao.com/trending/7708919984080420902/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227708919984080420902%22%2C%22hot_board_impr_id%22%3A%22202611181903342A4A58C1FE594E6D31A5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%22%7D&rank=&style_id=40132&topic_id=7708919984080420902",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
       "track": {
-        "first": "2026-11-17 19:33",
-        "hits": 2,
+        "first": "2026-11-18 11:03",
+        "hits": 1,
         "best": 2
       }
     },
     {
       "rank": 3,
-      "title": "高中生吸未知物质，当场喷红花油成中微子",
-      "source": "B站",
-      "heat": "791749",
-      "url": "https://www.bilibili.com/video/BV16ssM6sE2A",
+      "title": "中国与亚太经济体合作故事",
+      "source": "头条",
+      "heat": "33931801",
+      "url": "https://www.toutiao.com/article/7709347571390579241",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-11-18 02:03",
+        "first": "2026-11-18 11:03",
+        "hits": 1,
+        "best": 3
+      }
+    },
+    {
+      "rank": 4,
+      "title": "深圳机场停满各国领导人专机",
+      "source": "头条",
+      "heat": "30702764",
+      "url": "https://www.toutiao.com/trending/7709090624632327721/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227709090624632327721%22%2C%22hot_board_impr_id%22%3A%22202611181903342A4A58C1FE594E6D31A5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B7%B1%E5%9C%B3%E6%9C%BA%E5%9C%BA%E5%81%9C%E6%BB%A1%E5%90%84%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%B8%93%E6%9C%BA%22%7D&rank=&style_id=40132&topic_id=7709090624632327721",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
+      "track": {
+        "first": "2026-11-18 11:03",
+        "hits": 1,
+        "best": 4
+      }
+    },
+    {
+      "rank": 5,
+      "title": "《新闻联播》正在直播",
+      "source": "头条",
+      "heat": "27781009",
+      "url": "https://webcast-open.douyin.com/open/media_live/330698468897",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
+      "track": {
+        "first": "2026-11-18 11:03",
+        "hits": 1,
+        "best": 5
+      }
+    },
+    {
+      "rank": 6,
+      "title": "中方回应英伟达停止向华供应H200芯片",
+      "source": "头条",
+      "heat": "25137297",
+      "url": "https://www.toutiao.com/trending/7709409012864781866/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227709409012864781866%22%2C%22hot_board_impr_id%22%3A%22202611181903342A4A58C1FE594E6D31A5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%81%9C%E6%AD%A2%E5%90%91%E5%8D%8E%E4%BE%9B%E5%BA%94H200%E8%8A%AF%E7%89%87%22%7D&rank=&style_id=40132&topic_id=7709409012864781866",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
+      "track": {
+        "first": "2026-11-18 11:03",
+        "hits": 1,
+        "best": 6
+      }
+    },
+    {
+      "rank": 7,
+      "title": "台湾岛内震撼：全世界焦点都在深圳",
+      "source": "头条",
+      "heat": "22745167",
+      "url": "https://www.toutiao.com/trending/7709418503715094571/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227709418503715094571%22%2C%22hot_board_impr_id%22%3A%22202611181903342A4A58C1FE594E6D31A5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B0%E6%B9%BE%E5%B2%9B%E5%86%85%E9%9C%87%E6%92%BC%EF%BC%9A%E5%85%A8%E4%B8%96%E7%95%8C%E7%84%A6%E7%82%B9%E9%83%BD%E5%9C%A8%E6%B7%B1%E5%9C%B3%22%7D&rank=&style_id=40132&topic_id=7709418503715094571",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
+      "track": {
+        "first": "2026-11-18 11:03",
+        "hits": 1,
+        "best": 7
+      }
+    },
+    {
+      "rank": 8,
+      "title": "新西兰代表大赞中国汽车",
+      "source": "头条",
+      "heat": "20580678",
+      "url": "https://www.toutiao.com/trending/7709008519235862570/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227709008519235862570%22%2C%22hot_board_impr_id%22%3A%22202611181903342A4A58C1FE594E6D31A5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%96%B0%E8%A5%BF%E5%85%B0%E4%BB%A3%E8%A1%A8%E5%A4%A7%E8%B5%9E%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%22%7D&rank=&style_id=40132&topic_id=7709008519235862570",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
+      "track": {
+        "first": "2026-11-18 11:03",
+        "hits": 1,
+        "best": 8
+      }
+    },
+    {
+      "rank": 9,
+      "title": "外国人士热议APEC 共话新期待",
+      "source": "头条",
+      "heat": "18622167",
+      "url": "https://www.toutiao.com/article/7709315729899799066",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
+      "track": {
+        "first": "2026-11-18 11:03",
+        "hits": 1,
+        "best": 9
+      }
+    },
+    {
+      "rank": 10,
+      "title": "空军表演队拉彩烟欢迎特朗普",
+      "source": "头条",
+      "heat": "16850034",
+      "url": "https://www.toutiao.com/trending/7709440097833238547/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227709440097833238547%22%2C%22hot_board_impr_id%22%3A%22202611181903342A4A58C1FE594E6D31A5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%A9%BA%E5%86%9B%E8%A1%A8%E6%BC%94%E9%98%9F%E6%8B%89%E5%BD%A9%E7%83%9F%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%22%7D&rank=&style_id=40132&topic_id=7709440097833238547",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
+      "track": {
+        "first": "2026-11-18 11:03",
+        "hits": 1,
+        "best": 10
+      }
+    },
+    {
+      "rank": 11,
+      "title": "养老保险缴15年就能坐等退休？假的",
+      "source": "头条",
+      "heat": "15246541",
+      "url": "https://www.toutiao.com/trending/7709463695210008115/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227709463695210008115%22%2C%22hot_board_impr_id%22%3A%22202611181903342A4A58C1FE594E6D31A5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%E7%BC%B415%E5%B9%B4%E5%B0%B1%E8%83%BD%E5%9D%90%E7%AD%89%E9%80%80%E4%BC%91%EF%BC%9F%E5%81%87%E7%9A%84%22%7D&rank=&style_id=40132&topic_id=7709463695210008115",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
+      "track": {
+        "first": "2026-11-18 11:03",
+        "hits": 1,
+        "best": 11
+      }
+    },
+    {
+      "rank": 12,
+      "title": "郑恺当年高考分数超复旦录取线31分",
+      "source": "头条",
+      "heat": "13795641",
+      "url": "https://www.toutiao.com/trending/7709308906278797834/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227709308906278797834%22%2C%22hot_board_impr_id%22%3A%22202611181903342A4A58C1FE594E6D31A5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%83%91%E6%81%BA%E5%BD%93%E5%B9%B4%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E8%B6%85%E5%A4%8D%E6%97%A6%E5%BD%95%E5%8F%96%E7%BA%BF31%E5%88%86%22%7D&rank=&style_id=40132&topic_id=7709308906278797834",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
+      "track": {
+        "first": "2026-11-18 11:03",
+        "hits": 1,
+        "best": 12
+      }
+    },
+    {
+      "rank": 13,
+      "title": "泰国总理回到老家广东大飙粤语",
+      "source": "头条",
+      "heat": "12482812",
+      "url": "https://www.toutiao.com/trending/7709056923756249138/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227709056923756249138%22%2C%22hot_board_impr_id%22%3A%22202611181903342A4A58C1FE594E6D31A5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E5%9B%9E%E5%88%B0%E8%80%81%E5%AE%B6%E5%B9%BF%E4%B8%9C%E5%A4%A7%E9%A3%99%E7%B2%A4%E8%AF%AD%22%7D&rank=&style_id=40132&topic_id=7709056923756249138",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
+      "track": {
+        "first": "2026-11-18 11:03",
+        "hits": 1,
+        "best": 13
+      }
+    },
+    {
+      "rank": 14,
+      "title": "美学者开中国电动车走马可·波罗之路",
+      "source": "头条",
+      "heat": "11294915",
+      "url": "https://www.toutiao.com/trending/7709128443384021042/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227709128443384021042%22%2C%22hot_board_impr_id%22%3A%22202611181903342A4A58C1FE594E6D31A5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E5%AD%A6%E8%80%85%E5%BC%80%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%B5%B0%E9%A9%AC%E5%8F%AF%C2%B7%E6%B3%A2%E7%BD%97%E4%B9%8B%E8%B7%AF%22%7D&rank=&style_id=40132&topic_id=7709128443384021042",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
+      "track": {
+        "first": "2026-11-18 11:03",
+        "hits": 1,
+        "best": 14
+      }
+    },
+    {
+      "rank": 15,
+      "title": "母亲找回33年前失踪被拐儿子",
+      "source": "头条",
+      "heat": "10220062",
+      "url": "https://www.toutiao.com/trending/7709424695627726902/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227709424695627726902%22%2C%22hot_board_impr_id%22%3A%22202611181903342A4A58C1FE594E6D31A5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%AF%8D%E4%BA%B2%E6%89%BE%E5%9B%9E33%E5%B9%B4%E5%89%8D%E5%A4%B1%E8%B8%AA%E8%A2%AB%E6%8B%90%E5%84%BF%E5%AD%90%22%7D&rank=&style_id=40132&topic_id=7709424695627726902",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
+      "track": {
+        "first": "2026-11-18 11:03",
+        "hits": 1,
+        "best": 15
+      }
+    },
+    {
+      "rank": 1,
+      "title": "在普罗米厄的怀抱下",
+      "source": "B站",
+      "heat": "1680955",
+      "url": "https://www.bilibili.com/video/BV16Bs26FEAM",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
+      "track": {
+        "first": "2026-11-18 11:03",
+        "hits": 1,
+        "best": 1
+      }
+    },
+    {
+      "rank": 2,
+      "title": "灭霸的班级被奖励看电影",
+      "source": "B站",
+      "heat": "649177",
+      "url": "https://www.bilibili.com/video/BV1Cns667EAG",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
+      "track": {
+        "first": "2026-11-18 11:03",
+        "hits": 1,
+        "best": 2
+      }
+    },
+    {
+      "rank": 3,
+      "title": "非凡魔丸",
+      "source": "B站",
+      "heat": "1143179",
+      "url": "https://www.bilibili.com/video/BV1LLsr66EC6",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
+      "track": {
+        "first": "2026-11-18 11:03",
         "hits": 1,
         "best": 3
       }
@@ -507,403 +507,403 @@
       "rank": 4,
       "title": "【完结】财神窦占龙 第16集 归乡【8月国创】",
       "source": "B站",
-      "heat": "442765",
+      "heat": "462582",
       "url": "https://www.bilibili.com/video/BV1ojWq68E1D",
       "prev": 4,
       "delta": 0,
       "isNew": false,
       "track": {
         "first": "2026-11-17 19:33",
-        "hits": 2,
+        "hits": 3,
         "best": 4
       }
     },
     {
       "rank": 5,
-      "title": "蚌埠住的时候就抽出七匹狼",
+      "title": "《遗忘之海》第三赛季更新前瞻PV「旧日序曲」",
       "source": "B站",
-      "heat": "1164566",
-      "url": "https://www.bilibili.com/video/BV1jgsz6KEWP",
-      "prev": 15,
-      "delta": 10,
-      "isNew": false,
+      "heat": "410442",
+      "url": "https://www.bilibili.com/video/BV1N1s16iEry",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
       "track": {
-        "first": "2026-11-17 19:33",
-        "hits": 2,
+        "first": "2026-11-18 11:03",
+        "hits": 1,
         "best": 5
       }
     },
     {
       "rank": 6,
-      "title": "【蜘蛛侠/MJ】非凡之爱真人版",
+      "title": "【动画】可爱的猫尾草",
       "source": "B站",
-      "heat": "1212556",
-      "url": "https://www.bilibili.com/video/BV1xFs36uEvE",
-      "prev": 8,
-      "delta": 2,
-      "isNew": false,
+      "heat": "1875125",
+      "url": "https://www.bilibili.com/video/BV1LLsT6kESX",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
       "track": {
-        "first": "2026-11-17 19:33",
-        "hits": 2,
+        "first": "2026-11-18 11:03",
+        "hits": 1,
         "best": 6
       }
     },
     {
       "rank": 7,
-      "title": "《哈利波特与死亡火器》",
+      "title": "打工人开豪车上班，老板娘要来家访…",
       "source": "B站",
-      "heat": "1723169",
-      "url": "https://www.bilibili.com/video/BV1v8sP6vEiq",
+      "heat": "975419",
+      "url": "https://www.bilibili.com/video/BV15osT6yEgQ",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-11-18 02:03",
+        "first": "2026-11-18 11:03",
         "hits": 1,
         "best": 7
       }
     },
     {
       "rank": 8,
-      "title": "抽象新闻：11月人类迷惑行为大赏（中）",
+      "title": "「幽明志」幽城残梦",
       "source": "B站",
-      "heat": "733514",
-      "url": "https://www.bilibili.com/video/BV1uMsM6TEa5",
+      "heat": "1077441",
+      "url": "https://www.bilibili.com/video/BV1YvsB6FER9",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-11-18 02:03",
+        "first": "2026-11-18 11:03",
         "hits": 1,
         "best": 8
       }
     },
     {
       "rank": 9,
-      "title": "《最礼乐崩坏の一集》",
+      "title": "黑客打开印度骗子的摄像头，顺手把骗子策反了！",
       "source": "B站",
-      "heat": "2140922",
-      "url": "https://www.bilibili.com/video/BV1b2sK6aEJ9",
-      "prev": 7,
-      "delta": -2,
-      "isNew": false,
+      "heat": "1341299",
+      "url": "https://www.bilibili.com/video/BV18ws66hEXj",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
       "track": {
-        "first": "2026-11-17 10:06",
-        "hits": 3,
-        "best": 3
+        "first": "2026-11-18 11:03",
+        "hits": 1,
+        "best": 9
       }
     },
     {
       "rank": 10,
       "title": "【纪录片】蓝色星球 第三季 03 四季海洋",
       "source": "B站",
-      "heat": "574230",
+      "heat": "660089",
       "url": "https://www.bilibili.com/video/BV1dnWj6KEm8",
-      "prev": 11,
-      "delta": 1,
-      "isNew": false,
-      "track": {
-        "first": "2026-11-17 19:33",
-        "hits": 2,
-        "best": 10
-      }
-    },
-    {
-      "rank": 11,
-      "title": "CBS：最新法医证据显示爱泼斯坦应死于谋杀",
-      "source": "B站",
-      "heat": "468438",
-      "url": "https://www.bilibili.com/video/BV1EMsr6LEUJ",
-      "prev": null,
-      "delta": 0,
-      "isNew": true,
-      "track": {
-        "first": "2026-11-18 02:03",
-        "hits": 1,
-        "best": 11
-      }
-    },
-    {
-      "rank": 12,
-      "title": "西班牙400万人大罢工，抗议房价太高，物价飞涨",
-      "source": "B站",
-      "heat": "591665",
-      "url": "https://www.bilibili.com/video/BV1VwsM63EJG",
-      "prev": 2,
-      "delta": -10,
-      "isNew": false,
-      "track": {
-        "first": "2026-11-17 19:33",
-        "hits": 2,
-        "best": 2
-      }
-    },
-    {
-      "rank": 13,
-      "title": "EUV光刻机 | \"上帝的手术刀\"",
-      "source": "B站",
-      "heat": "1807363",
-      "url": "https://www.bilibili.com/video/BV1kYsW6NE6E",
-      "prev": 5,
-      "delta": -8,
-      "isNew": false,
-      "track": {
-        "first": "2026-11-17 10:06",
-        "hits": 3,
-        "best": 1
-      }
-    },
-    {
-      "rank": 14,
-      "title": "我们熟悉的那个3A游戏时代，可能真的结束了。【游戏之外】",
-      "source": "B站",
-      "heat": "696197",
-      "url": "https://www.bilibili.com/video/BV1cUsu6ZEYp",
-      "prev": 14,
-      "delta": 0,
-      "isNew": false,
-      "track": {
-        "first": "2026-11-17 19:33",
-        "hits": 2,
-        "best": 14
-      }
-    },
-    {
-      "rank": 15,
-      "title": "迎接我们的羁绊吧！",
-      "source": "B站",
-      "heat": "1626235",
-      "url": "https://www.bilibili.com/video/BV1L7sn6UEjz",
-      "prev": 9,
-      "delta": -6,
-      "isNew": false,
-      "track": {
-        "first": "2026-11-17 19:33",
-        "hits": 2,
-        "best": 9
-      }
-    },
-    {
-      "rank": 1,
-      "title": "习近平会见智利总统卡斯特",
-      "source": "百度",
-      "heat": "",
-      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E6%99%BA%E5%88%A9%E6%80%BB%E7%BB%9F%E5%8D%A1%E6%96%AF%E7%89%B9&sa=fyb_news",
-      "prev": 1,
-      "delta": 0,
-      "isNew": false,
-      "track": {
-        "first": "2026-11-17 19:33",
-        "hits": 2,
-        "best": 1
-      }
-    },
-    {
-      "rank": 2,
-      "title": "习近平出席工商领导人峰会开幕式",
-      "source": "百度",
-      "heat": "",
-      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F&sa=fyb_news",
-      "prev": null,
-      "delta": 0,
-      "isNew": true,
-      "track": {
-        "first": "2026-11-18 02:03",
-        "hits": 1,
-        "best": 2
-      }
-    },
-    {
-      "rank": 3,
-      "title": "凌晨接机 “中国排面”依旧整齐划一",
-      "source": "百度",
-      "heat": "",
-      "url": "https://m.baidu.com/s?word=%E5%87%8C%E6%99%A8%E6%8E%A5%E6%9C%BA+%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%8E%92%E9%9D%A2%E2%80%9D%E4%BE%9D%E6%97%A7%E6%95%B4%E9%BD%90%E5%88%92%E4%B8%80&sa=fyb_news",
-      "prev": null,
-      "delta": 0,
-      "isNew": true,
-      "track": {
-        "first": "2026-11-18 02:03",
-        "hits": 1,
-        "best": 3
-      }
-    },
-    {
-      "rank": 4,
-      "title": "APEC工商领导人峰会聚焦哪些议题",
-      "source": "百度",
-      "heat": "",
-      "url": "https://m.baidu.com/s?word=APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E8%81%9A%E7%84%A6%E5%93%AA%E4%BA%9B%E8%AE%AE%E9%A2%98&sa=fyb_news",
-      "prev": 4,
-      "delta": 0,
-      "isNew": false,
-      "track": {
-        "first": "2026-11-17 19:33",
-        "hits": 2,
-        "best": 4
-      }
-    },
-    {
-      "rank": 5,
-      "title": "普京身边罕见无提黑色手提箱保镖随行",
-      "source": "百度",
-      "heat": "",
-      "url": "https://m.baidu.com/s?word=%E6%99%AE%E4%BA%AC%E8%BA%AB%E8%BE%B9%E7%BD%95%E8%A7%81%E6%97%A0%E6%8F%90%E9%BB%91%E8%89%B2%E6%89%8B%E6%8F%90%E7%AE%B1%E4%BF%9D%E9%95%96%E9%9A%8F%E8%A1%8C&sa=fyb_news",
-      "prev": null,
-      "delta": 0,
-      "isNew": true,
-      "track": {
-        "first": "2026-11-18 02:03",
-        "hits": 1,
-        "best": 5
-      }
-    },
-    {
-      "rank": 6,
-      "title": "“大圣遇猴孙”刷屏 当事人发声",
-      "source": "百度",
-      "heat": "",
-      "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%A4%A7%E5%9C%A3%E9%81%87%E7%8C%B4%E5%AD%99%E2%80%9D%E5%88%B7%E5%B1%8F+%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%8F%91%E5%A3%B0&sa=fyb_news",
-      "prev": null,
-      "delta": 0,
-      "isNew": true,
-      "track": {
-        "first": "2026-11-18 02:03",
-        "hits": 1,
-        "best": 6
-      }
-    },
-    {
-      "rank": 7,
-      "title": "又一癌症疫苗迎来重大突破 股价暴涨",
-      "source": "百度",
-      "heat": "",
-      "url": "https://m.baidu.com/s?word=%E5%8F%88%E4%B8%80%E7%99%8C%E7%97%87%E7%96%AB%E8%8B%97%E8%BF%8E%E6%9D%A5%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4+%E8%82%A1%E4%BB%B7%E6%9A%B4%E6%B6%A8&sa=fyb_news",
-      "prev": null,
-      "delta": 0,
-      "isNew": true,
-      "track": {
-        "first": "2026-11-18 02:03",
-        "hits": 1,
-        "best": 7
-      }
-    },
-    {
-      "rank": 8,
-      "title": "李在明与夫人走上红毯一路鼓掌",
-      "source": "百度",
-      "heat": "",
-      "url": "https://m.baidu.com/s?word=%E6%9D%8E%E5%9C%A8%E6%98%8E%E4%B8%8E%E5%A4%AB%E4%BA%BA%E8%B5%B0%E4%B8%8A%E7%BA%A2%E6%AF%AF%E4%B8%80%E8%B7%AF%E9%BC%93%E6%8E%8C&sa=fyb_news",
-      "prev": null,
-      "delta": 0,
-      "isNew": true,
-      "track": {
-        "first": "2026-11-18 02:03",
-        "hits": 1,
-        "best": 8
-      }
-    },
-    {
-      "rank": 9,
-      "title": "普京向接机现场欢迎人群微笑致意",
-      "source": "百度",
-      "heat": "",
-      "url": "https://m.baidu.com/s?word=%E6%99%AE%E4%BA%AC%E5%90%91%E6%8E%A5%E6%9C%BA%E7%8E%B0%E5%9C%BA%E6%AC%A2%E8%BF%8E%E4%BA%BA%E7%BE%A4%E5%BE%AE%E7%AC%91%E8%87%B4%E6%84%8F&sa=fyb_news",
-      "prev": null,
-      "delta": 0,
-      "isNew": true,
-      "track": {
-        "first": "2026-11-18 02:03",
-        "hits": 1,
-        "best": 9
-      }
-    },
-    {
-      "rank": 10,
-      "title": "三次东道主 这次有什么不一样",
-      "source": "百度",
-      "heat": "",
-      "url": "https://m.baidu.com/s?word=%E4%B8%89%E6%AC%A1%E4%B8%9C%E9%81%93%E4%B8%BB+%E8%BF%99%E6%AC%A1%E6%9C%89%E4%BB%80%E4%B9%88%E4%B8%8D%E4%B8%80%E6%A0%B7&sa=fyb_news",
       "prev": 10,
       "delta": 0,
       "isNew": false,
       "track": {
         "first": "2026-11-17 19:33",
-        "hits": 2,
+        "hits": 3,
         "best": 10
       }
     },
     {
       "rank": 11,
-      "title": "孙艺洲：演员是服务行业不能套路观众",
-      "source": "百度",
-      "heat": "",
-      "url": "https://m.baidu.com/s?word=%E5%AD%99%E8%89%BA%E6%B4%B2%EF%BC%9A%E6%BC%94%E5%91%98%E6%98%AF%E6%9C%8D%E5%8A%A1%E8%A1%8C%E4%B8%9A%E4%B8%8D%E8%83%BD%E5%A5%97%E8%B7%AF%E8%A7%82%E4%BC%97&sa=fyb_news",
+      "title": "历史性峰会！为什么是APEC？是中国？是深圳？",
+      "source": "B站",
+      "heat": "324547",
+      "url": "https://www.bilibili.com/video/BV1nVs16tESg",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-11-18 02:03",
+        "first": "2026-11-18 11:03",
         "hits": 1,
         "best": 11
       }
     },
     {
       "rank": 12,
-      "title": "小米：相关内容纯属虚构",
-      "source": "百度",
-      "heat": "",
-      "url": "https://m.baidu.com/s?word=%E5%B0%8F%E7%B1%B3%EF%BC%9A%E7%9B%B8%E5%85%B3%E5%86%85%E5%AE%B9%E7%BA%AF%E5%B1%9E%E8%99%9A%E6%9E%84&sa=fyb_news",
-      "prev": 12,
-      "delta": 0,
+      "title": "【蜘蛛侠/MJ】非凡之爱真人版",
+      "source": "B站",
+      "heat": "3802688",
+      "url": "https://www.bilibili.com/video/BV1xFs36uEvE",
+      "prev": 6,
+      "delta": -6,
       "isNew": false,
       "track": {
         "first": "2026-11-17 19:33",
-        "hits": 2,
-        "best": 12
+        "hits": 3,
+        "best": 6
       }
     },
     {
       "rank": 13,
-      "title": "都2026年了 竟还有人坐飞机时丢硬币",
-      "source": "百度",
-      "heat": "",
-      "url": "https://m.baidu.com/s?word=%E9%83%BD2026%E5%B9%B4%E4%BA%86+%E7%AB%9F%E8%BF%98%E6%9C%89%E4%BA%BA%E5%9D%90%E9%A3%9E%E6%9C%BA%E6%97%B6%E4%B8%A2%E7%A1%AC%E5%B8%81&sa=fyb_news",
+      "title": "同游新加坡，凭什么她的照片一发就爆？【晚爸】荣耀700 Pro影像超前评测",
+      "source": "B站",
+      "heat": "289240",
+      "url": "https://www.bilibili.com/video/BV1vYsB6hEcq",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-11-18 02:03",
+        "first": "2026-11-18 11:03",
         "hits": 1,
         "best": 13
       }
     },
     {
       "rank": 14,
-      "title": "浑水做空英伟达",
-      "source": "百度",
-      "heat": "",
-      "url": "https://m.baidu.com/s?word=%E6%B5%91%E6%B0%B4%E5%81%9A%E7%A9%BA%E8%8B%B1%E4%BC%9F%E8%BE%BE&sa=fyb_news",
+      "title": "⚡ 非凡之畜 ⚡",
+      "source": "B站",
+      "heat": "3622690",
+      "url": "https://www.bilibili.com/video/BV18DsJ6TEA3",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-11-18 02:03",
+        "first": "2026-11-18 11:03",
         "hits": 1,
         "best": 14
       }
     },
     {
       "rank": 15,
-      "title": "CNN披露“爆炸性”新闻！评论区亮了",
+      "title": "“他们没有任何血缘关系，但却拥有同一个妈妈.”【Scared play sacred place】【治愈心灵の小曲】",
+      "source": "B站",
+      "heat": "2840833",
+      "url": "https://www.bilibili.com/video/BV12MsK6tEV1",
+      "prev": 1,
+      "delta": -14,
+      "isNew": false,
+      "track": {
+        "first": "2026-11-17 10:06",
+        "hits": 4,
+        "best": 1
+      }
+    },
+    {
+      "rank": 1,
+      "title": "习近平会见韩国总统李在明",
       "source": "百度",
       "heat": "",
-      "url": "https://m.baidu.com/s?word=CNN%E6%8A%AB%E9%9C%B2%E2%80%9C%E7%88%86%E7%82%B8%E6%80%A7%E2%80%9D%E6%96%B0%E9%97%BB%EF%BC%81%E8%AF%84%E8%AE%BA%E5%8C%BA%E4%BA%AE%E4%BA%86&sa=fyb_news",
+      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E&sa=fyb_news",
       "prev": null,
       "delta": 0,
       "isNew": true,
       "track": {
-        "first": "2026-11-18 02:03",
+        "first": "2026-11-18 11:03",
+        "hits": 1,
+        "best": 1
+      }
+    },
+    {
+      "rank": 2,
+      "title": "APEC欢迎宴会",
+      "source": "百度",
+      "heat": "",
+      "url": "https://m.baidu.com/s?word=APEC%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A&sa=fyb_news",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
+      "track": {
+        "first": "2026-11-18 11:03",
+        "hits": 1,
+        "best": 2
+      }
+    },
+    {
+      "rank": 3,
+      "title": "习近平迎接特朗普",
+      "source": "百度",
+      "heat": "",
+      "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BF%8E%E6%8E%A5%E7%89%B9%E6%9C%97%E6%99%AE&sa=fyb_news",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
+      "track": {
+        "first": "2026-11-18 11:03",
+        "hits": 2,
+        "best": 1
+      }
+    },
+    {
+      "rank": 4,
+      "title": "共绘新图景 共话新机遇",
+      "source": "百度",
+      "heat": "",
+      "url": "https://m.baidu.com/s?word=%E5%85%B1%E7%BB%98%E6%96%B0%E5%9B%BE%E6%99%AF+%E5%85%B1%E8%AF%9D%E6%96%B0%E6%9C%BA%E9%81%87&sa=fyb_news",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
+      "track": {
+        "first": "2026-11-18 11:03",
+        "hits": 1,
+        "best": 4
+      }
+    },
+    {
+      "rank": 5,
+      "title": "特朗普抵达深圳中方战机拉起彩烟",
+      "source": "百度",
+      "heat": "",
+      "url": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E4%B8%AD%E6%96%B9%E6%88%98%E6%9C%BA%E6%8B%89%E8%B5%B7%E5%BD%A9%E7%83%9F&sa=fyb_news",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
+      "track": {
+        "first": "2026-11-18 11:03",
+        "hits": 2,
+        "best": 5
+      }
+    },
+    {
+      "rank": 6,
+      "title": "台湾岛内震撼：全世界焦点都在深圳",
+      "source": "百度",
+      "heat": "",
+      "url": "https://m.baidu.com/s?word=%E5%8F%B0%E6%B9%BE%E5%B2%9B%E5%86%85%E9%9C%87%E6%92%BC%EF%BC%9A%E5%85%A8%E4%B8%96%E7%95%8C%E7%84%A6%E7%82%B9%E9%83%BD%E5%9C%A8%E6%B7%B1%E5%9C%B3&sa=fyb_news",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
+      "track": {
+        "first": "2026-11-18 11:03",
+        "hits": 2,
+        "best": 6
+      }
+    },
+    {
+      "rank": 7,
+      "title": "特朗普抵达深圳",
+      "source": "百度",
+      "heat": "",
+      "url": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3&sa=fyb_news",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
+      "track": {
+        "first": "2026-11-18 11:03",
+        "hits": 2,
+        "best": 2
+      }
+    },
+    {
+      "rank": 8,
+      "title": "华强北挤满了外国人",
+      "source": "百度",
+      "heat": "",
+      "url": "https://m.baidu.com/s?word=%E5%8D%8E%E5%BC%BA%E5%8C%97%E6%8C%A4%E6%BB%A1%E4%BA%86%E5%A4%96%E5%9B%BD%E4%BA%BA&sa=fyb_news",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
+      "track": {
+        "first": "2026-11-18 11:03",
+        "hits": 1,
+        "best": 8
+      }
+    },
+    {
+      "rank": 9,
+      "title": "普京参访深圳北理莫斯科大学",
+      "source": "百度",
+      "heat": "",
+      "url": "https://m.baidu.com/s?word=%E6%99%AE%E4%BA%AC%E5%8F%82%E8%AE%BF%E6%B7%B1%E5%9C%B3%E5%8C%97%E7%90%86%E8%8E%AB%E6%96%AF%E7%A7%91%E5%A4%A7%E5%AD%A6&sa=fyb_news",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
+      "track": {
+        "first": "2026-11-18 11:03",
+        "hits": 1,
+        "best": 9
+      }
+    },
+    {
+      "rank": 10,
+      "title": "三座城、三次APEC会议见证了什么",
+      "source": "百度",
+      "heat": "",
+      "url": "https://m.baidu.com/s?word=%E4%B8%89%E5%BA%A7%E5%9F%8E%E3%80%81%E4%B8%89%E6%AC%A1APEC%E4%BC%9A%E8%AE%AE%E8%A7%81%E8%AF%81%E4%BA%86%E4%BB%80%E4%B9%88&sa=fyb_news",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
+      "track": {
+        "first": "2026-11-18 11:03",
+        "hits": 1,
+        "best": 10
+      }
+    },
+    {
+      "rank": 11,
+      "title": "智利总统在深圳庆祝车厘子运抵中国",
+      "source": "百度",
+      "heat": "",
+      "url": "https://m.baidu.com/s?word=%E6%99%BA%E5%88%A9%E6%80%BB%E7%BB%9F%E5%9C%A8%E6%B7%B1%E5%9C%B3%E5%BA%86%E7%A5%9D%E8%BD%A6%E5%8E%98%E5%AD%90%E8%BF%90%E6%8A%B5%E4%B8%AD%E5%9B%BD&sa=fyb_news",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
+      "track": {
+        "first": "2026-11-18 11:03",
+        "hits": 1,
+        "best": 11
+      }
+    },
+    {
+      "rank": 12,
+      "title": "“养老保险缴15年就能退休”系谣言",
+      "source": "百度",
+      "heat": "",
+      "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%E7%BC%B415%E5%B9%B4%E5%B0%B1%E8%83%BD%E9%80%80%E4%BC%91%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
+      "track": {
+        "first": "2026-11-18 11:03",
+        "hits": 1,
+        "best": 12
+      }
+    },
+    {
+      "rank": 13,
+      "title": "现场画面：特朗普走出舱门",
+      "source": "百度",
+      "heat": "",
+      "url": "https://m.baidu.com/s?word=%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%B0%E5%87%BA%E8%88%B1%E9%97%A8&sa=fyb_news",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
+      "track": {
+        "first": "2026-11-18 11:03",
+        "hits": 1,
+        "best": 13
+      }
+    },
+    {
+      "rank": 14,
+      "title": "特朗普年内第二次访华",
+      "source": "百度",
+      "heat": "",
+      "url": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B9%B4%E5%86%85%E7%AC%AC%E4%BA%8C%E6%AC%A1%E8%AE%BF%E5%8D%8E&sa=fyb_news",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
+      "track": {
+        "first": "2026-11-18 11:03",
+        "hits": 1,
+        "best": 14
+      }
+    },
+    {
+      "rank": 15,
+      "title": "记者：普京车队起码有40多辆车",
+      "source": "百度",
+      "heat": "",
+      "url": "https://m.baidu.com/s?word=%E8%AE%B0%E8%80%85%EF%BC%9A%E6%99%AE%E4%BA%AC%E8%BD%A6%E9%98%9F%E8%B5%B7%E7%A0%81%E6%9C%8940%E5%A4%9A%E8%BE%86%E8%BD%A6&sa=fyb_news",
+      "prev": null,
+      "delta": 0,
+      "isNew": true,
+      "track": {
+        "first": "2026-11-18 11:03",
         "hits": 1,
         "best": 15
       }
@@ -911,17 +911,17 @@
   ],
   "stats": {
     "total": 60,
-    "newCount": 39,
-    "upCount": 6,
-    "downCount": 5,
+    "newCount": 56,
+    "upCount": 0,
+    "downCount": 2,
     "sources": {
       "微博": 15,
       "头条": 15,
       "B站": 15,
       "百度": 15
     },
-    "crawls": 746,
+    "crawls": 747,
     "since": "2026-10-09 14:53",
-    "tracked": 290
+    "tracked": 293
   }
 }
